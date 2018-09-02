@@ -1,0 +1,3 @@
+ALTER SESSION SET CONTAINER=orcl;
+DROP USER demo cascade;
+EXIT
