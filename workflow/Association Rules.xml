@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WorkflowProcess Version="12.2.0.0.1" DBVersion="12.1.0.2.0" Schema="" xmlns="http://xmlns.oracle.com/odmr11">
+    <Nodes>
+        <DataSource Id="10001" Name="TRANSACTION" Status="Complete">
+            <Icon XCOORD="154" YCOORD="297"></Icon>
+            <Messages/>
+            <Parallelism Enable="false">
+                <SystemDetermined/>
+            </Parallelism>
+            <CacheSettings UseFullData="false" GenerateCache="false">
+                <NumberOfRows>2000</NumberOfRows>
+                <Method>
+                    <TopN/>
+                </Method>
+            </CacheSettings>
+            <SQLExpression>"N$10001" as (select "TRANSACTION"."CIF", 
+"TRANSACTION"."SOURCE_OF_TX", 
+"TRANSACTION"."AMOUNT", 
+"TRANSACTION"."TX_DATE", 
+"TRANSACTION"."CURRENCY_CODE", 
+"TRANSACTION"."TX_ID", 
+"TRANSACTION"."MERCHANT" 
+from "DEMO"."TRANSACTION"  )</SQLExpression>
+            <Attributes>
+                <Attribute Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
+            </Attributes>
+            <SourceTable Schema="" Name="TRANSACTION" Synonym="false"/>
+            <JSONColumns/>
+            <DataGuideSettings Generate="true" UseFullData="false" UseFullDoc="false">
+                <NumberOfRows>2000</NumberOfRows>
+                <NumberOfValues>10000</NumberOfValues>
+            </DataGuideSettings>
+        </DataSource>
+        <CreateTable TableName="RESULT_ASSOC" Table="true" AutoSpec="Yes" Id="10012" Name="RESULT_ASSOC" Status="Complete">
+            <Icon XCOORD="621" YCOORD="298"></Icon>
+            <Messages/>
+            <Parallelism Enable="false">
+                <SystemDetermined/>
+            </Parallelism>
+            <CacheSettings UseFullData="false" GenerateCache="false">
+                <NumberOfRows>2000</NumberOfRows>
+                <Method>
+                    <TopN/>
+                </Method>
+            </CacheSettings>
+            <SQLExpression>"N$10012" AS ( SELECT  "ANTECEDENT" ,
+ "CONSEQUENT" ,
+ "SUPPORT" ,
+ "CONFIDENCE" ,
+ "LIFT"  FROM "RESULT_ASSOC")</SQLExpression>
+            <DBAttributes>
+                <DBAttribute Key="No" Index="No" Name="ANTECEDENT" DataType="VARCHAR2" Status="Valid"/>
+                <DBAttribute Key="No" Index="No" Name="CONSEQUENT" DataType="VARCHAR2" Status="Valid"/>
+                <DBAttribute Key="No" Index="No" Name="SUPPORT" DataType="NUMBER" Status="Valid"/>
+                <DBAttribute Key="No" Index="No" Name="CONFIDENCE" DataType="NUMBER" Status="Valid"/>
+                <DBAttribute Key="No" Index="No" Name="LIFT" DataType="NUMBER" Status="Valid"/>
+            </DBAttributes>
+            <JSONColumns/>
+            <CreateTableOptions>
+                <Logging>NOLOGGING</Logging>
+                <TableCompression>ROW STORE COMPRESS</TableCompression>
+            </CreateTableOptions>
+        </CreateTable>
+        <AssociationBuild MaxDistinctItemValue="10" ASSO_GENERATE_PREPROCESSED_TABLE="false" ASSO_PREPROCESSED_TABLE_NAME="NONE" Id="10003" Name="Assoc Build" Status="Complete">
+            <Icon XCOORD="280" YCOORD="297"></Icon>
+            <Messages/>
+            <Parallelism Enable="false">
+                <SystemDetermined/>
+            </Parallelism>
+            <BuildDataSource SourceId="10001"/>
+            <CaseAttributes>
+                <Attribute Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+            </CaseAttributes>
+            <MiningAttributes AutoSpec="Yes">
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
+            </MiningAttributes>
+            <ASSO_AGGREGATES/>
+            <ItemID Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
+            <Models>
+                <AprioriModel Id="10002" Name="ASSOC_AP_1_7" Status="Complete" CreationDate="2018-09-02T03:01:07" Annotation="" UseForOutput="true">
+                    <InputMiningData DataUsage="MANUAL" MiningUsage="MANUAL">
+                        <MiningAttributes>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
+                        </MiningAttributes>
+                    </InputMiningData>
+                    <AprioriAlgo>
+                        <ASSO_MAX_RULE_LENGTH>4</ASSO_MAX_RULE_LENGTH>
+                        <ASSO_MIN_CONFIDENCE>0.1</ASSO_MIN_CONFIDENCE>
+                        <ASSO_MIN_SUPPORT>0.01</ASSO_MIN_SUPPORT>
+                    </AprioriAlgo>
+                </AprioriModel>
+            </Models>
+        </AssociationBuild>
+        <ModelDetails Id="10007" Name="Model Details" Status="Complete">
+            <Icon XCOORD="395" YCOORD="297"></Icon>
+            <Messages/>
+            <Parallelism Enable="false">
+                <SystemDetermined/>
+            </Parallelism>
+            <CacheSettings UseFullData="false" GenerateCache="false">
+                <NumberOfRows>2000</NumberOfRows>
+                <Method>
+                    <TopN/>
+                </Method>
+            </CacheSettings>
+            <SQLExpression>"N$10007" as (
+     SELECT CAST('DEMO' AS VARCHAR2(30)) as "MODEL_SCHEMA", 
+     CAST('ASSOC_AP_1_7' AS VARCHAR2(30)) as "MODEL_NAME", 
+     AR.rule_id as "ID", 
+    dbms_xmlgen.CONVERT(REPLACE(REPLACE(REPLACE(EXTRACT(XMLELEMENT("R", XMLAGG( XMLELEMENT("V", NVL2( ant_pred.attribute_subname, ant_pred.attribute_name || '.' || ant_pred.attribute_subname, ant_pred.attribute_name) || ' ' || ant_pred.conditional_operator || ' '
+         ||ant_pred.attribute_str_value
+         ||ant_pred.attribute_num_value))), '/R/V').getstringval(), '&lt;/V&gt;&lt;V&gt;',', '),'&lt;V&gt;', ''),'&lt;/V&gt;',''), 1) AS ANTECEDENT_ITEMS,
+     dbms_xmlgen.CONVERT(MAX(NVL2( cons_pred.attribute_subname, cons_pred.attribute_name || '.' || cons_pred.attribute_subname, cons_pred.attribute_name) || ' ' || cons_pred.conditional_operator || ' '
+         ||ant_pred.attribute_str_value
+         ||ant_pred.attribute_num_value), 1) CONSEQUENT_ITEMS,
+     AVG(ar.rule_support) AS SUPPORT,
+     AVG(ar.rule_confidence) AS CONFIDENCE,
+     AVG(ar.rule_lift) AS LIFT,
+     AVG(ar.antecedent_support) AS ANTECEDENT_SUPPORT,
+     AVG(ar.consequent_support) AS CONSEQUENT_SUPPORT,
+     AVG(ar.number_of_items) AS LENGTH
+     FROM TABLE(dbms_data_mining.get_association_rules('"DEMO"."ASSOC_AP_1_7"')) AR, 
+     TABLE(AR.antecedent) ant_pred ,  TABLE(AR.consequent) cons_pred
+     GROUP BY AR.rule_id )</SQLExpression>
+            <ModelDetailsOutput Type="ARRulesStringVersion" MiningFunction="ASSOCIATION" MiningAlgorithm="APRIORI_ASSOCIATION_RULES" AutoSpec="Yes">
+                <Models>
+                    <Model IsModelBuilt="true" NodeId="10003" Schema="" Name="ASSOC_AP_1_7" MiningFunction="ASSOCIATION" MiningAlgorithm="APRIORI_ASSOCIATION_RULES" Status="Valid" UseForOutput="true" ModelId="10002"/>
+                </Models>
+                <Attributes>
+                    <Attribute Name="MODEL_SCHEMA" DataType="VARCHAR2" Status="Valid"/>
+                    <Attribute Name="MODEL_NAME" DataType="VARCHAR2" Status="Valid"/>
+                    <Attribute Name="ID" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="ANTECEDENT_ITEMS" DataType="VARCHAR2" Status="Valid"/>
+                    <Attribute Name="CONSEQUENT_ITEMS" DataType="VARCHAR2" Status="Valid"/>
+                    <Attribute Name="SUPPORT" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="CONFIDENCE" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="LIFT" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="ANTECEDENT_SUPPORT" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="CONSEQUENT_SUPPORT" DataType="NUMBER" Status="Valid"/>
+                    <Attribute Name="LENGTH" DataType="NUMBER" Status="Valid"/>
+                </Attributes>
+            </ModelDetailsOutput>
+        </ModelDetails>
+        <SQLQuery HasWithClause="false" GenerateView="false" ViewName="OUTPUT_1_7" Id="10009" Name="SQL Query" Status="Complete">
+            <Icon XCOORD="506" YCOORD="298"></Icon>
+            <Messages/>
+            <Parallelism Enable="false">
+                <SystemDetermined/>
+            </Parallelism>
+            <CacheSettings UseFullData="false" GenerateCache="false">
+                <NumberOfRows>2000</NumberOfRows>
+                <Method>
+                    <TopN/>
+                </Method>
+            </CacheSettings>
+            <SQLExpression>"Model Details_N$10007" as (SELECT * FROM {INPUT_SOURCE:10007}),
+"N$10009" as (SELECT
+  UPPER(REPLACE(REPLACE(ANTECEDENT_ITEMS,'MERCHANT.'),' =  ')) AS ANTECEDENT
+, UPPER(REPLACE(REPLACE(CONSEQUENT_ITEMS,'KEY_NAME.'),' =  ')) AS CONSEQUENT
+, SUPPORT
+, CONFIDENCE
+, LIFT
+FROM
+  "Model Details_N$10007")
+</SQLExpression>
+            <SQLQueryExpression>SELECT
+  UPPER(REPLACE(REPLACE(ANTECEDENT_ITEMS,'MERCHANT.'),' =  ')) AS ANTECEDENT
+, UPPER(REPLACE(REPLACE(CONSEQUENT_ITEMS,'KEY_NAME.'),' =  ')) AS CONSEQUENT
+, SUPPORT
+, CONFIDENCE
+, LIFT
+FROM
+  "Model Details_N$10007"</SQLQueryExpression>
+            <SQLQueryOutputColumns>
+                <Attribute Name="ANTECEDENT" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="CONSEQUENT" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="SUPPORT" DataType="NUMBER" Status="Valid"/>
+                <Attribute Name="CONFIDENCE" DataType="NUMBER" Status="Valid"/>
+                <Attribute Name="LIFT" DataType="NUMBER" Status="Valid"/>
+            </SQLQueryOutputColumns>
+        </SQLQuery>
+    </Nodes>
+    <Links>
+        <Link Id="10004" From="10001" To="10003" Name="Link" Label="From &quot;TRANSACTION&quot; to &quot;Assoc Build&quot;">
+            <ConnectorGraphicsInfo>
+                <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+            </ConnectorGraphicsInfo>
+        </Link>
+        <Link Id="10008" From="10003" To="10007" Name="Link" Label="From &quot;Assoc Build&quot; to &quot;Model Details&quot;">
+            <ConnectorGraphicsInfo>
+                <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+            </ConnectorGraphicsInfo>
+        </Link>
+        <Link Id="10011" From="10007" To="10009" Name="Link" Label="From &quot;Model Details&quot; to &quot;SQL Query&quot;">
+            <ConnectorGraphicsInfo>
+                <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+            </ConnectorGraphicsInfo>
+        </Link>
+        <Link Id="10013" From="10009" To="10012" Name="Link" Label="From &quot;SQL Query&quot; to &quot;RESULT_ASSOC&quot;">
+            <ConnectorGraphicsInfo>
+                <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
+            </ConnectorGraphicsInfo>
+        </Link>
+    </Links>
+</WorkflowProcess>
