@@ -1,0 +1,10 @@
+DROP TABLE complain; 
+CREATE TABLE complain (
+  cif         VARCHAR2(255) DEFAULT NULL
+, source      VARCHAR2(255) DEFAULT NULL
+, branch_loc  VARCHAR2(255) DEFAULT NULL
+, comp_date   VARCHAR2(255) DEFAULT NULL
+, topic       VARCHAR2(255) DEFAULT NULL
+, product     VARCHAR2(255) DEFAULT NULL
+);
+EXIT

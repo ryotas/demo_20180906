@@ -1,0 +1,1001 @@
+cif,Source,Branch_Location,Complaint_date,topic,product
+1,Branch,Gawaldar,2/19/2018,Card Lost,Term Deposit Account
+2,Call Center,Lahore,11/12/2017,Card Lost,HBL Gold & Green Credit Card
+3,Branch,Lahore,4/20/2018,Card Rejected,HBL FreedomAccount
+4,Branch,Karachi,5/16/2018,Carding,HBL AsaanAccount
+5,Call Center,Lahore,02/04/2018,Carding,HBL Basic
+6,Branch,Mardan,6/24/2018,Carding,HBL AsaanAccount
+7,Branch,Lahore,11/12/2017,Carding,HBL AsaanAccount
+8,Branch,Lahore,12/04/2017,Card Lost,HBL Gold & Green Credit Card
+9,Branch,Mardan,5/30/2018,Carding,Term Deposit Account
+10,Branch,Gawaldar,1/24/2018,Card Lost,HBL Platinum CreditCard
+11,Call Center,Lahore,11/16/2017,Card Lost,HBL Gold & Green Credit Card
+12,Branch,Mardan,6/19/2018,Card Lost,HBL Gold & Green Credit Card
+13,Branch,Mardan,3/23/2018,Card Rejected,Term Deposit Account
+14,Call Center,Mardan,7/20/2018,Card Rejected,HBL Gold & Green Credit Card
+15,Call Center,Lahore,11/12/2017,Carding,HBL AsaanAccount
+16,Branch,Lahore,9/19/2017,Card Lost,HBL AsaanAccount
+17,Call Center,Gawaldar,10/23/2017,Card Lost,HBL Gold & Green Credit Card
+18,Call Center,Mardan,02/03/2018,Carding,HBL Basic
+19,Call Center,Karachi,11/24/2017,Carding,HBL Gold & Green Credit Card
+20,Call Center,Karachi,9/15/2017,Card Rejected,HBL FreedomAccount
+21,Call Center,Lahore,1/23/2018,Card Rejected,HBL Gold & Green Credit Card
+22,Branch,Karachi,11/24/2017,Card Lost,HBL Basic
+23,Branch,Lahore,11/09/2017,Card Lost,HBL FreedomAccount
+24,Branch,Gawaldar,12/16/2017,Card Rejected,HBL Platinum CreditCard
+25,Call Center,Mardan,1/14/2018,Card Lost,HBL Basic
+26,Branch,Mardan,7/26/2018,Card Rejected,HBL AsaanAccount
+27,Call Center,Lahore,04/02/2018,Card Rejected,HBL Gold & Green Credit Card
+28,Branch,Mardan,05/05/2018,Card Rejected,Term Deposit Account
+29,Call Center,Karachi,5/19/2018,Card Lost,HBL Gold & Green Credit Card
+30,Branch,Mardan,01/08/2018,Card Rejected,HBL Gold & Green Credit Card
+31,Branch,Mardan,09/02/2017,Card Lost,HBL Gold & Green Credit Card
+32,Call Center,Lahore,6/29/2018,Card Lost,HBL Basic
+33,Branch,Gawaldar,2/20/2018,Card Rejected,Term Deposit Account
+34,Branch,Lahore,01/05/2018,Carding,Term Deposit Account
+35,Branch,Lahore,08/07/2018,Carding,Term Deposit Account
+36,Branch,Mardan,6/18/2018,Card Rejected,HBL Basic
+37,Call Center,Gawaldar,5/24/2018,Card Rejected,Term Deposit Account
+38,Call Center,Lahore,10/20/2017,Card Lost,HBL Platinum CreditCard
+39,Call Center,Gawaldar,04/06/2018,Card Rejected,Term Deposit Account
+40,Call Center,Karachi,04/05/2018,Card Lost,HBL Gold & Green Credit Card
+41,Branch,Gawaldar,7/15/2018,Carding,HBL FreedomAccount
+42,Call Center,Mardan,3/16/2018,Carding,HBL FreedomAccount
+43,Call Center,Lahore,2/20/2018,Card Rejected,HBL Platinum CreditCard
+44,Call Center,Karachi,06/03/2018,Carding,Term Deposit Account
+45,Call Center,Mardan,10/16/2017,Card Lost,HBL Gold & Green Credit Card
+46,Branch,Gawaldar,9/25/2017,Card Lost,HBL Basic
+47,Branch,Lahore,03/12/2018,Card Rejected,HBL Basic
+48,Call Center,Mardan,08/12/2018,Card Lost,HBL Basic
+49,Call Center,Karachi,5/23/2018,Carding,HBL Platinum CreditCard
+50,Call Center,Lahore,4/27/2018,Card Lost,HBL Platinum CreditCard
+51,Call Center,Lahore,10/28/2017,Card Lost,HBL AsaanAccount
+52,Branch,Lahore,6/16/2018,Card Lost,HBL Platinum CreditCard
+53,Call Center,Lahore,4/20/2018,Carding,HBL AsaanAccount
+54,Call Center,Lahore,04/02/2018,Card Rejected,HBL Platinum CreditCard
+55,Call Center,Gawaldar,3/29/2018,Card Lost,HBL FreedomAccount
+56,Branch,Karachi,11/07/2017,Card Rejected,HBL FreedomAccount
+57,Call Center,Lahore,06/10/2018,Card Rejected,HBL FreedomAccount
+58,Call Center,Gawaldar,04/06/2018,Card Rejected,HBL Platinum CreditCard
+59,Branch,Lahore,11/28/2017,Card Lost,HBL Gold & Green Credit Card
+60,Call Center,Lahore,5/22/2018,Card Lost,HBL AsaanAccount
+61,Branch,Mardan,12/17/2017,Card Lost,Term Deposit Account
+62,Branch,Karachi,1/15/2018,Card Lost,HBL Basic
+63,Branch,Gawaldar,07/03/2018,Card Rejected,HBL AsaanAccount
+64,Branch,Gawaldar,4/15/2018,Carding,Term Deposit Account
+65,Branch,Lahore,8/28/2018,Card Lost,HBL FreedomAccount
+66,Branch,Gawaldar,11/13/2017,Card Rejected,HBL Basic
+67,Call Center,Gawaldar,5/26/2018,Card Lost,HBL AsaanAccount
+68,Call Center,Karachi,12/29/2017,Carding,HBL Platinum CreditCard
+69,Call Center,Gawaldar,4/20/2018,Carding,HBL FreedomAccount
+70,Branch,Mardan,5/31/2018,Carding,HBL FreedomAccount
+71,Call Center,Karachi,02/11/2018,Card Lost,HBL Platinum CreditCard
+72,Branch,Lahore,4/22/2018,Carding,HBL Platinum CreditCard
+73,Call Center,Karachi,07/12/2018,Carding,HBL Basic
+74,Branch,Mardan,4/19/2018,Card Rejected,Term Deposit Account
+75,Branch,Mardan,11/13/2017,Card Rejected,Term Deposit Account
+76,Branch,Karachi,06/07/2018,Carding,HBL Platinum CreditCard
+77,Call Center,Gawaldar,08/05/2018,Card Rejected,HBL AsaanAccount
+78,Call Center,Gawaldar,10/05/2017,Card Rejected,HBL Gold & Green Credit Card
+79,Branch,Mardan,1/30/2018,Carding,Term Deposit Account
+80,Call Center,Mardan,12/10/2017,Card Rejected,HBL Gold & Green Credit Card
+81,Branch,Gawaldar,6/27/2018,Card Lost,HBL AsaanAccount
+82,Call Center,Mardan,04/07/2018,Carding,HBL AsaanAccount
+83,Branch,Gawaldar,09/05/2017,Card Lost,HBL Gold & Green Credit Card
+84,Call Center,Lahore,1/22/2018,Card Lost,HBL Platinum CreditCard
+85,Branch,Karachi,7/30/2018,Carding,HBL AsaanAccount
+86,Branch,Karachi,03/03/2018,Carding,HBL AsaanAccount
+87,Branch,Lahore,04/10/2018,Carding,HBL Gold & Green Credit Card
+88,Branch,Mardan,11/25/2017,Card Lost,HBL AsaanAccount
+89,Branch,Mardan,2/26/2018,Card Lost,HBL FreedomAccount
+90,Call Center,Mardan,1/23/2018,Card Rejected,Term Deposit Account
+91,Call Center,Karachi,4/19/2018,Card Rejected,HBL AsaanAccount
+92,Call Center,Mardan,07/10/2018,Carding,Term Deposit Account
+93,Call Center,Mardan,11/27/2017,Card Lost,HBL Gold & Green Credit Card
+94,Branch,Lahore,11/05/2017,Carding,HBL Basic
+95,Call Center,Lahore,10/11/2017,Card Lost,HBL FreedomAccount
+96,Call Center,Mardan,1/29/2018,Card Lost,HBL FreedomAccount
+97,Branch,Mardan,03/12/2018,Card Lost,HBL AsaanAccount
+98,Call Center,Karachi,11/05/2017,Carding,HBL FreedomAccount
+99,Call Center,Lahore,4/27/2018,Card Lost,HBL AsaanAccount
+100,Branch,Gawaldar,8/26/2018,Card Lost,HBL Gold & Green Credit Card
+101,Call Center,Lahore,03/08/2018,Card Rejected,HBL AsaanAccount
+102,Branch,Mardan,10/13/2017,Card Rejected,HBL AsaanAccount
+103,Branch,Gawaldar,11/10/2017,Carding,HBL Gold & Green Credit Card
+104,Call Center,Mardan,1/20/2018,Card Rejected,HBL Platinum CreditCard
+105,Call Center,Lahore,9/18/2017,Card Rejected,HBL AsaanAccount
+106,Call Center,Karachi,8/29/2017,Card Lost,HBL FreedomAccount
+107,Branch,Lahore,1/27/2018,Carding,Term Deposit Account
+108,Branch,Karachi,07/03/2018,Carding,HBL Platinum CreditCard
+109,Call Center,Karachi,09/05/2017,Card Lost,HBL Gold & Green Credit Card
+110,Call Center,Gawaldar,1/14/2018,Carding,HBL Platinum CreditCard
+111,Branch,Mardan,08/01/2018,Card Rejected,HBL FreedomAccount
+112,Branch,Gawaldar,4/15/2018,Card Rejected,HBL FreedomAccount
+113,Branch,Karachi,3/30/2018,Card Rejected,HBL Basic
+114,Branch,Gawaldar,2/17/2018,Card Lost,HBL Basic
+115,Call Center,Mardan,05/01/2018,Card Rejected,HBL Basic
+116,Branch,Gawaldar,8/23/2018,Card Lost,HBL Gold & Green Credit Card
+117,Branch,Karachi,06/09/2018,Carding,HBL AsaanAccount
+118,Branch,Gawaldar,11/30/2017,Carding,HBL FreedomAccount
+119,Branch,Mardan,01/10/2018,Card Rejected,HBL Gold & Green Credit Card
+120,Call Center,Karachi,09/06/2017,Card Lost,HBL FreedomAccount
+121,Branch,Karachi,12/27/2017,Carding,HBL AsaanAccount
+122,Branch,Lahore,6/19/2018,Card Rejected,HBL Gold & Green Credit Card
+123,Branch,Lahore,3/20/2018,Carding,HBL Platinum CreditCard
+124,Branch,Mardan,11/10/2017,Card Lost,Term Deposit Account
+125,Call Center,Lahore,8/20/2018,Card Lost,HBL FreedomAccount
+126,Call Center,Lahore,12/20/2017,Card Rejected,Term Deposit Account
+127,Branch,Mardan,03/09/2018,Card Lost,HBL Gold & Green Credit Card
+128,Call Center,Lahore,7/15/2018,Card Rejected,HBL Gold & Green Credit Card
+129,Branch,Karachi,2/22/2018,Carding,HBL Platinum CreditCard
+130,Branch,Karachi,06/02/2018,Carding,HBL Platinum CreditCard
+131,Branch,Karachi,11/24/2017,Card Rejected,HBL Basic
+132,Call Center,Gawaldar,9/26/2017,Carding,HBL Basic
+133,Branch,Karachi,12/16/2017,Card Lost,HBL Gold & Green Credit Card
+134,Branch,Lahore,02/09/2018,Card Lost,HBL Gold & Green Credit Card
+135,Call Center,Mardan,5/23/2018,Card Lost,HBL Gold & Green Credit Card
+136,Call Center,Lahore,1/15/2018,Carding,HBL FreedomAccount
+137,Call Center,Lahore,05/11/2018,Card Rejected,HBL Basic
+138,Call Center,Karachi,11/24/2017,Card Lost,Term Deposit Account
+139,Call Center,Karachi,4/29/2018,Card Lost,HBL Basic
+140,Call Center,Gawaldar,2/18/2018,Card Lost,HBL FreedomAccount
+141,Branch,Gawaldar,01/11/2018,Card Lost,HBL Basic
+142,Call Center,Lahore,06/02/2018,Carding,HBL FreedomAccount
+143,Branch,Gawaldar,4/22/2018,Card Rejected,Term Deposit Account
+144,Branch,Mardan,12/07/2017,Card Lost,HBL Basic
+145,Branch,Gawaldar,1/29/2018,Card Lost,HBL Platinum CreditCard
+146,Call Center,Karachi,11/25/2017,Carding,HBL Gold & Green Credit Card
+147,Branch,Lahore,12/14/2017,Card Rejected,Term Deposit Account
+148,Branch,Gawaldar,11/18/2017,Carding,HBL FreedomAccount
+149,Call Center,Mardan,04/12/2018,Carding,Term Deposit Account
+150,Branch,Gawaldar,9/27/2017,Card Rejected,HBL FreedomAccount
+151,Call Center,Gawaldar,5/29/2018,Carding,HBL AsaanAccount
+152,Branch,Lahore,4/17/2018,Carding,HBL FreedomAccount
+153,Branch,Karachi,08/11/2018,Card Lost,HBL Basic
+154,Call Center,Lahore,12/09/2017,Card Rejected,HBL FreedomAccount
+155,Call Center,Gawaldar,02/05/2018,Card Rejected,HBL FreedomAccount
+156,Branch,Karachi,04/11/2018,Carding,HBL FreedomAccount
+157,Branch,Gawaldar,05/07/2018,Carding,HBL Basic
+158,Call Center,Mardan,11/06/2017,Card Lost,HBL Gold & Green Credit Card
+159,Call Center,Lahore,3/25/2018,Card Lost,HBL Basic
+160,Branch,Karachi,7/25/2018,Card Rejected,HBL AsaanAccount
+161,Branch,Lahore,10/27/2017,Carding,HBL Platinum CreditCard
+162,Branch,Gawaldar,08/06/2018,Carding,HBL Basic
+163,Branch,Gawaldar,7/29/2018,Card Rejected,HBL AsaanAccount
+164,Call Center,Gawaldar,2/14/2018,Carding,HBL AsaanAccount
+165,Branch,Gawaldar,12/17/2017,Card Rejected,HBL FreedomAccount
+166,Branch,Karachi,1/22/2018,Carding,HBL Platinum CreditCard
+167,Call Center,Karachi,06/02/2018,Carding,HBL FreedomAccount
+168,Branch,Lahore,5/29/2018,Carding,HBL Platinum CreditCard
+169,Call Center,Gawaldar,07/12/2018,Card Rejected,HBL Gold & Green Credit Card
+170,Branch,Mardan,12/27/2017,Card Rejected,HBL Platinum CreditCard
+171,Branch,Karachi,8/17/2018,Carding,HBL Platinum CreditCard
+172,Call Center,Lahore,06/09/2018,Card Rejected,HBL Platinum CreditCard
+173,Branch,Mardan,08/04/2018,Carding,Term Deposit Account
+174,Call Center,Gawaldar,07/08/2018,Card Rejected,HBL Platinum CreditCard
+175,Call Center,Gawaldar,10/22/2017,Card Lost,HBL Gold & Green Credit Card
+176,Branch,Mardan,4/20/2018,Card Lost,HBL AsaanAccount
+177,Branch,Karachi,12/12/2017,Carding,HBL Basic
+178,Branch,Mardan,7/16/2018,Carding,HBL Platinum CreditCard
+179,Branch,Lahore,01/11/2018,Carding,HBL Gold & Green Credit Card
+180,Call Center,Mardan,01/11/2018,Carding,HBL Platinum CreditCard
+181,Branch,Gawaldar,3/16/2018,Carding,HBL FreedomAccount
+182,Call Center,Gawaldar,11/12/2017,Card Rejected,HBL Platinum CreditCard
+183,Branch,Gawaldar,03/04/2018,Carding,HBL Basic
+184,Call Center,Mardan,12/28/2017,Carding,HBL Basic
+185,Call Center,Lahore,8/14/2018,Card Lost,HBL Platinum CreditCard
+186,Branch,Lahore,3/31/2018,Card Rejected,HBL Gold & Green Credit Card
+187,Call Center,Mardan,10/09/2017,Card Lost,HBL FreedomAccount
+188,Branch,Karachi,06/05/2018,Card Rejected,Term Deposit Account
+189,Call Center,Karachi,7/26/2018,Card Lost,Term Deposit Account
+190,Branch,Lahore,12/07/2017,Carding,HBL AsaanAccount
+191,Branch,Mardan,04/05/2018,Card Lost,HBL Basic
+192,Call Center,Gawaldar,08/03/2018,Card Lost,HBL FreedomAccount
+193,Call Center,Gawaldar,7/13/2018,Card Lost,HBL FreedomAccount
+194,Branch,Lahore,10/07/2017,Card Rejected,Term Deposit Account
+195,Branch,Lahore,04/06/2018,Card Lost,HBL FreedomAccount
+196,Branch,Karachi,3/27/2018,Card Lost,Term Deposit Account
+197,Branch,Lahore,12/04/2017,Carding,HBL AsaanAccount
+198,Call Center,Lahore,4/16/2018,Card Rejected,Term Deposit Account
+199,Branch,Karachi,10/12/2017,Carding,HBL Gold & Green Credit Card
+200,Branch,Lahore,7/24/2018,Card Rejected,HBL Basic
+201,Call Center,Karachi,3/24/2018,Card Lost,HBL Platinum CreditCard
+202,Branch,Gawaldar,03/01/2018,Carding,HBL Platinum CreditCard
+203,Call Center,Karachi,11/13/2017,Card Rejected,HBL Platinum CreditCard
+204,Call Center,Mardan,9/30/2017,Card Rejected,HBL AsaanAccount
+205,Call Center,Karachi,11/06/2017,Card Lost,HBL Platinum CreditCard
+206,Branch,Karachi,7/14/2018,Carding,HBL AsaanAccount
+207,Branch,Karachi,3/20/2018,Carding,HBL Platinum CreditCard
+208,Branch,Gawaldar,4/13/2018,Carding,HBL Platinum CreditCard
+209,Call Center,Gawaldar,5/22/2018,Carding,HBL FreedomAccount
+210,Branch,Gawaldar,05/09/2018,Carding,Term Deposit Account
+211,Branch,Gawaldar,02/04/2018,Card Lost,HBL AsaanAccount
+212,Call Center,Lahore,12/07/2017,Carding,HBL Platinum CreditCard
+213,Branch,Mardan,4/14/2018,Carding,HBL Basic
+214,Branch,Lahore,1/18/2018,Card Rejected,HBL Basic
+215,Branch,Gawaldar,10/04/2017,Card Rejected,Term Deposit Account
+216,Branch,Mardan,5/17/2018,Card Lost,HBL FreedomAccount
+217,Call Center,Gawaldar,5/28/2018,Carding,HBL Gold & Green Credit Card
+218,Call Center,Gawaldar,11/24/2017,Carding,HBL FreedomAccount
+219,Call Center,Lahore,4/29/2018,Carding,HBL Gold & Green Credit Card
+220,Call Center,Lahore,5/24/2018,Card Lost,HBL AsaanAccount
+221,Call Center,Lahore,12/10/2017,Card Rejected,HBL Gold & Green Credit Card
+222,Call Center,Lahore,04/11/2018,Carding,HBL FreedomAccount
+223,Call Center,Gawaldar,11/29/2017,Carding,HBL Basic
+224,Call Center,Gawaldar,3/14/2018,Carding,HBL Platinum CreditCard
+225,Call Center,Lahore,1/27/2018,Carding,HBL Basic
+226,Branch,Lahore,11/11/2017,Card Lost,HBL Basic
+227,Call Center,Gawaldar,2/22/2018,Card Lost,HBL AsaanAccount
+228,Call Center,Lahore,11/09/2017,Card Rejected,Term Deposit Account
+229,Call Center,Karachi,05/02/2018,Carding,HBL Gold & Green Credit Card
+230,Branch,Lahore,11/07/2017,Card Lost,Term Deposit Account
+231,Branch,Mardan,8/30/2017,Carding,HBL Platinum CreditCard
+232,Branch,Lahore,5/29/2018,Card Rejected,HBL Platinum CreditCard
+233,Call Center,Lahore,02/11/2018,Card Rejected,HBL Basic
+234,Branch,Mardan,04/12/2018,Card Lost,Term Deposit Account
+235,Call Center,Lahore,9/26/2017,Carding,Term Deposit Account
+236,Branch,Mardan,2/16/2018,Carding,HBL Gold & Green Credit Card
+237,Call Center,Lahore,12/19/2017,Carding,HBL Platinum CreditCard
+238,Branch,Lahore,7/17/2018,Card Rejected,HBL AsaanAccount
+239,Call Center,Mardan,7/21/2018,Card Lost,Term Deposit Account
+240,Call Center,Gawaldar,12/29/2017,Card Lost,HBL Basic
+241,Branch,Karachi,1/28/2018,Carding,HBL AsaanAccount
+242,Branch,Mardan,06/06/2018,Card Rejected,HBL FreedomAccount
+243,Call Center,Gawaldar,08/10/2018,Card Lost,HBL Platinum CreditCard
+244,Call Center,Lahore,9/23/2017,Card Lost,HBL Platinum CreditCard
+245,Call Center,Gawaldar,11/21/2017,Carding,HBL AsaanAccount
+246,Call Center,Lahore,12/31/2017,Card Lost,HBL Gold & Green Credit Card
+247,Call Center,Gawaldar,9/22/2017,Card Rejected,HBL Gold & Green Credit Card
+248,Call Center,Gawaldar,04/12/2018,Card Lost,HBL Platinum CreditCard
+249,Branch,Karachi,9/25/2017,Carding,HBL FreedomAccount
+250,Call Center,Gawaldar,06/09/2018,Card Rejected,HBL Platinum CreditCard
+251,Call Center,Karachi,4/16/2018,Carding,HBL Platinum CreditCard
+252,Branch,Gawaldar,03/01/2018,Carding,HBL AsaanAccount
+253,Call Center,Gawaldar,4/29/2018,Carding,HBL Gold & Green Credit Card
+254,Branch,Karachi,02/11/2018,Carding,HBL Platinum CreditCard
+255,Call Center,Lahore,6/24/2018,Card Lost,HBL AsaanAccount
+256,Branch,Mardan,2/14/2018,Card Lost,HBL Gold & Green Credit Card
+257,Call Center,Gawaldar,11/20/2017,Carding,Term Deposit Account
+258,Call Center,Lahore,9/28/2017,Carding,Term Deposit Account
+259,Branch,Mardan,05/12/2018,Card Lost,HBL Basic
+260,Branch,Karachi,7/19/2018,Card Rejected,Term Deposit Account
+261,Branch,Gawaldar,7/26/2018,Card Lost,HBL FreedomAccount
+262,Branch,Mardan,1/15/2018,Card Rejected,HBL FreedomAccount
+263,Branch,Lahore,9/17/2017,Card Rejected,HBL FreedomAccount
+264,Branch,Gawaldar,05/11/2018,Carding,HBL Platinum CreditCard
+265,Call Center,Gawaldar,05/11/2018,Carding,HBL Basic
+266,Call Center,Karachi,05/08/2018,Carding,HBL Basic
+267,Call Center,Mardan,3/23/2018,Card Rejected,HBL Gold & Green Credit Card
+268,Branch,Karachi,05/10/2018,Card Lost,HBL FreedomAccount
+269,Call Center,Karachi,10/01/2017,Card Rejected,HBL FreedomAccount
+270,Branch,Lahore,9/16/2017,Carding,HBL Platinum CreditCard
+271,Branch,Karachi,10/13/2017,Card Rejected,HBL FreedomAccount
+272,Call Center,Karachi,7/15/2018,Carding,HBL AsaanAccount
+273,Call Center,Gawaldar,03/06/2018,Carding,HBL FreedomAccount
+274,Branch,Lahore,12/02/2017,Card Lost,HBL FreedomAccount
+275,Branch,Karachi,12/16/2017,Card Lost,HBL Platinum CreditCard
+276,Branch,Mardan,04/08/2018,Carding,HBL FreedomAccount
+277,Call Center,Karachi,2/17/2018,Card Lost,HBL FreedomAccount
+278,Branch,Lahore,1/31/2018,Card Lost,Term Deposit Account
+279,Call Center,Karachi,08/05/2018,Card Rejected,HBL FreedomAccount
+280,Branch,Karachi,10/04/2017,Card Lost,HBL Platinum CreditCard
+281,Branch,Gawaldar,8/31/2017,Card Rejected,HBL Gold & Green Credit Card
+282,Branch,Gawaldar,4/21/2018,Card Rejected,HBL FreedomAccount
+283,Call Center,Karachi,12/27/2017,Card Rejected,HBL FreedomAccount
+284,Branch,Mardan,10/21/2017,Card Rejected,HBL AsaanAccount
+285,Branch,Gawaldar,02/07/2018,Card Lost,HBL Platinum CreditCard
+286,Branch,Karachi,03/01/2018,Carding,HBL Basic
+287,Call Center,Gawaldar,04/10/2018,Card Rejected,Term Deposit Account
+288,Branch,Karachi,08/02/2018,Card Rejected,Term Deposit Account
+289,Branch,Karachi,04/10/2018,Card Rejected,HBL Gold & Green Credit Card
+290,Branch,Mardan,09/12/2017,Carding,HBL Gold & Green Credit Card
+291,Branch,Lahore,4/15/2018,Carding,Term Deposit Account
+292,Branch,Gawaldar,1/29/2018,Card Rejected,HBL AsaanAccount
+293,Call Center,Karachi,3/22/2018,Carding,HBL Platinum CreditCard
+294,Call Center,Gawaldar,09/04/2017,Card Rejected,HBL Gold & Green Credit Card
+295,Branch,Lahore,10/27/2017,Card Rejected,Term Deposit Account
+296,Branch,Karachi,1/16/2018,Card Rejected,HBL FreedomAccount
+297,Branch,Mardan,10/09/2017,Card Lost,Term Deposit Account
+298,Call Center,Karachi,11/05/2017,Card Lost,Term Deposit Account
+299,Branch,Karachi,09/01/2017,Card Rejected,HBL FreedomAccount
+300,Call Center,Karachi,4/21/2018,Card Rejected,Term Deposit Account
+301,Branch,Mardan,11/18/2017,Carding,HBL FreedomAccount
+302,Branch,Lahore,07/01/2018,Card Lost,HBL FreedomAccount
+303,Call Center,Mardan,4/20/2018,Card Lost,HBL Basic
+304,Branch,Lahore,12/27/2017,Card Lost,HBL FreedomAccount
+305,Branch,Gawaldar,2/18/2018,Card Lost,HBL Gold & Green Credit Card
+306,Branch,Gawaldar,2/19/2018,Card Rejected,HBL Gold & Green Credit Card
+307,Branch,Karachi,08/11/2018,Card Lost,HBL AsaanAccount
+308,Branch,Lahore,3/27/2018,Carding,HBL Basic
+309,Branch,Karachi,01/08/2018,Carding,HBL Basic
+310,Branch,Gawaldar,12/30/2017,Card Rejected,HBL Gold & Green Credit Card
+311,Branch,Karachi,05/07/2018,Carding,HBL AsaanAccount
+312,Branch,Lahore,5/17/2018,Card Lost,HBL AsaanAccount
+313,Branch,Karachi,10/23/2017,Card Lost,HBL Basic
+314,Call Center,Gawaldar,2/18/2018,Carding,HBL AsaanAccount
+315,Call Center,Mardan,04/08/2018,Card Rejected,Term Deposit Account
+316,Call Center,Mardan,09/03/2017,Carding,Term Deposit Account
+317,Call Center,Mardan,01/11/2018,Card Lost,HBL Gold & Green Credit Card
+318,Branch,Lahore,4/16/2018,Carding,HBL Platinum CreditCard
+319,Branch,Karachi,04/12/2018,Carding,HBL FreedomAccount
+320,Call Center,Lahore,11/02/2017,Carding,HBL Platinum CreditCard
+321,Call Center,Lahore,04/06/2018,Carding,HBL Gold & Green Credit Card
+322,Call Center,Gawaldar,09/09/2017,Card Lost,Term Deposit Account
+323,Branch,Gawaldar,2/26/2018,Carding,Term Deposit Account
+324,Call Center,Mardan,6/24/2018,Card Lost,HBL AsaanAccount
+325,Call Center,Lahore,4/16/2018,Carding,Term Deposit Account
+326,Branch,Mardan,11/17/2017,Card Lost,HBL AsaanAccount
+327,Call Center,Mardan,06/09/2018,Card Lost,HBL Platinum CreditCard
+328,Call Center,Lahore,2/24/2018,Card Lost,HBL AsaanAccount
+329,Branch,Lahore,10/06/2017,Carding,HBL Basic
+330,Branch,Mardan,02/06/2018,Card Lost,HBL Platinum CreditCard
+331,Call Center,Lahore,3/16/2018,Card Rejected,HBL Gold & Green Credit Card
+332,Branch,Karachi,4/20/2018,Card Rejected,HBL AsaanAccount
+333,Branch,Mardan,8/20/2018,Card Lost,HBL Gold & Green Credit Card
+334,Call Center,Karachi,10/16/2017,Card Rejected,HBL Gold & Green Credit Card
+335,Call Center,Mardan,10/18/2017,Carding,HBL AsaanAccount
+336,Call Center,Mardan,7/22/2018,Card Lost,Term Deposit Account
+337,Branch,Mardan,12/16/2017,Card Lost,HBL AsaanAccount
+338,Branch,Lahore,12/16/2017,Card Rejected,Term Deposit Account
+339,Call Center,Mardan,09/07/2017,Carding,HBL Platinum CreditCard
+340,Branch,Karachi,5/18/2018,Carding,HBL Basic
+341,Branch,Lahore,6/24/2018,Carding,Term Deposit Account
+342,Call Center,Lahore,12/13/2017,Card Rejected,HBL Gold & Green Credit Card
+343,Call Center,Mardan,11/04/2017,Card Rejected,HBL Gold & Green Credit Card
+344,Branch,Mardan,2/15/2018,Card Rejected,HBL FreedomAccount
+345,Call Center,Karachi,5/17/2018,Card Rejected,HBL Basic
+346,Call Center,Karachi,01/02/2018,Card Lost,Term Deposit Account
+347,Call Center,Karachi,12/15/2017,Card Lost,HBL Gold & Green Credit Card
+348,Branch,Gawaldar,08/08/2018,Carding,HBL Platinum CreditCard
+349,Call Center,Gawaldar,12/06/2017,Card Rejected,HBL Gold & Green Credit Card
+350,Call Center,Karachi,3/18/2018,Card Rejected,HBL Gold & Green Credit Card
+351,Branch,Lahore,09/08/2017,Card Rejected,HBL Platinum CreditCard
+352,Call Center,Mardan,8/25/2018,Carding,HBL Platinum CreditCard
+353,Branch,Lahore,8/23/2018,Card Lost,Term Deposit Account
+354,Call Center,Karachi,3/25/2018,Carding,HBL Basic
+355,Branch,Lahore,6/14/2018,Card Lost,HBL Basic
+356,Branch,Lahore,4/23/2018,Carding,HBL Basic
+357,Call Center,Gawaldar,6/16/2018,Card Lost,HBL FreedomAccount
+358,Branch,Gawaldar,10/01/2017,Card Rejected,HBL Basic
+359,Branch,Gawaldar,8/29/2017,Card Lost,HBL AsaanAccount
+360,Call Center,Karachi,2/20/2018,Card Lost,HBL Basic
+361,Branch,Lahore,1/30/2018,Carding,HBL Basic
+362,Call Center,Gawaldar,12/01/2017,Card Lost,HBL FreedomAccount
+363,Branch,Lahore,04/01/2018,Carding,HBL AsaanAccount
+364,Call Center,Lahore,04/09/2018,Card Lost,HBL Basic
+365,Branch,Lahore,3/19/2018,Card Lost,HBL FreedomAccount
+366,Call Center,Mardan,3/14/2018,Card Rejected,Term Deposit Account
+367,Call Center,Lahore,05/03/2018,Card Lost,Term Deposit Account
+368,Call Center,Gawaldar,8/29/2017,Card Lost,Term Deposit Account
+369,Branch,Lahore,2/22/2018,Carding,HBL AsaanAccount
+370,Call Center,Lahore,04/10/2018,Card Lost,HBL Gold & Green Credit Card
+371,Call Center,Mardan,6/16/2018,Card Rejected,HBL AsaanAccount
+372,Branch,Lahore,9/27/2017,Card Lost,HBL Gold & Green Credit Card
+373,Branch,Gawaldar,1/20/2018,Card Lost,HBL Platinum CreditCard
+374,Call Center,Gawaldar,2/17/2018,Card Lost,HBL Basic
+375,Branch,Karachi,10/08/2017,Carding,HBL Platinum CreditCard
+376,Branch,Gawaldar,8/26/2018,Card Rejected,HBL Platinum CreditCard
+377,Call Center,Lahore,8/16/2018,Card Rejected,HBL FreedomAccount
+378,Branch,Karachi,02/06/2018,Card Lost,HBL FreedomAccount
+379,Call Center,Karachi,09/11/2017,Card Rejected,HBL Platinum CreditCard
+380,Call Center,Karachi,4/18/2018,Carding,HBL Gold & Green Credit Card
+381,Branch,Karachi,10/16/2017,Card Rejected,Term Deposit Account
+382,Call Center,Gawaldar,3/17/2018,Card Lost,Term Deposit Account
+383,Branch,Karachi,8/28/2018,Carding,HBL Platinum CreditCard
+384,Call Center,Karachi,01/02/2018,Card Lost,HBL FreedomAccount
+385,Branch,Gawaldar,08/03/2018,Card Rejected,HBL Platinum CreditCard
+386,Call Center,Mardan,2/18/2018,Card Lost,Term Deposit Account
+387,Call Center,Karachi,07/04/2018,Carding,HBL FreedomAccount
+388,Call Center,Gawaldar,1/27/2018,Carding,HBL AsaanAccount
+389,Call Center,Mardan,06/10/2018,Card Lost,HBL FreedomAccount
+390,Branch,Mardan,02/03/2018,Card Lost,HBL Basic
+391,Branch,Mardan,3/19/2018,Card Rejected,Term Deposit Account
+392,Branch,Karachi,08/07/2018,Carding,HBL FreedomAccount
+393,Branch,Gawaldar,11/12/2017,Card Rejected,HBL Gold & Green Credit Card
+394,Call Center,Karachi,02/10/2018,Card Rejected,Term Deposit Account
+395,Call Center,Lahore,01/01/2018,Card Lost,HBL Platinum CreditCard
+396,Branch,Mardan,05/05/2018,Carding,HBL FreedomAccount
+397,Branch,Karachi,4/24/2018,Card Lost,HBL Gold & Green Credit Card
+398,Branch,Karachi,4/28/2018,Carding,Term Deposit Account
+399,Call Center,Mardan,1/19/2018,Carding,HBL Gold & Green Credit Card
+400,Branch,Lahore,5/31/2018,Carding,HBL AsaanAccount
+401,Branch,Gawaldar,6/16/2018,Carding,HBL FreedomAccount
+402,Call Center,Gawaldar,11/12/2017,Card Lost,HBL AsaanAccount
+403,Branch,Karachi,8/27/2018,Card Rejected,HBL FreedomAccount
+404,Call Center,Mardan,8/30/2017,Carding,HBL AsaanAccount
+405,Call Center,Karachi,8/24/2018,Card Lost,Term Deposit Account
+406,Branch,Karachi,11/29/2017,Card Lost,HBL Platinum CreditCard
+407,Call Center,Gawaldar,7/25/2018,Card Rejected,HBL Platinum CreditCard
+408,Call Center,Mardan,5/31/2018,Carding,HBL Basic
+409,Branch,Mardan,10/01/2017,Card Lost,Term Deposit Account
+410,Call Center,Karachi,05/09/2018,Card Rejected,HBL AsaanAccount
+411,Call Center,Mardan,5/15/2018,Card Lost,HBL Platinum CreditCard
+412,Branch,Mardan,5/23/2018,Carding,Term Deposit Account
+413,Branch,Lahore,3/29/2018,Card Lost,HBL Platinum CreditCard
+414,Call Center,Mardan,06/09/2018,Card Lost,Term Deposit Account
+415,Call Center,Karachi,10/18/2017,Carding,HBL FreedomAccount
+416,Call Center,Gawaldar,11/03/2017,Carding,Term Deposit Account
+417,Branch,Lahore,12/25/2017,Card Lost,HBL AsaanAccount
+418,Call Center,Mardan,09/11/2017,Card Rejected,HBL AsaanAccount
+419,Branch,Mardan,09/01/2017,Card Lost,HBL FreedomAccount
+420,Call Center,Gawaldar,11/27/2017,Card Lost,HBL Basic
+421,Call Center,Mardan,12/18/2017,Card Rejected,Term Deposit Account
+422,Call Center,Karachi,10/28/2017,Card Rejected,HBL Basic
+423,Branch,Karachi,10/24/2017,Card Rejected,HBL Basic
+424,Call Center,Gawaldar,09/05/2017,Card Lost,HBL AsaanAccount
+425,Branch,Karachi,5/22/2018,Card Lost,HBL Basic
+426,Call Center,Mardan,08/10/2018,Carding,HBL Gold & Green Credit Card
+427,Call Center,Gawaldar,07/09/2018,Carding,HBL FreedomAccount
+428,Call Center,Lahore,12/25/2017,Carding,Term Deposit Account
+429,Call Center,Lahore,01/05/2018,Card Lost,HBL Platinum CreditCard
+430,Branch,Karachi,12/17/2017,Card Rejected,HBL FreedomAccount
+431,Call Center,Karachi,01/04/2018,Card Lost,HBL FreedomAccount
+432,Call Center,Karachi,12/28/2017,Card Lost,HBL Gold & Green Credit Card
+433,Call Center,Karachi,03/08/2018,Card Lost,HBL AsaanAccount
+434,Branch,Lahore,05/10/2018,Card Lost,Term Deposit Account
+435,Call Center,Karachi,3/27/2018,Carding,HBL Basic
+436,Branch,Gawaldar,3/17/2018,Card Lost,HBL Basic
+437,Branch,Mardan,3/23/2018,Carding,HBL Basic
+438,Call Center,Karachi,1/25/2018,Card Lost,HBL Basic
+439,Call Center,Gawaldar,01/05/2018,Card Lost,Term Deposit Account
+440,Call Center,Lahore,10/25/2017,Card Lost,Term Deposit Account
+441,Call Center,Karachi,11/24/2017,Card Lost,HBL Gold & Green Credit Card
+442,Call Center,Lahore,02/03/2018,Card Lost,HBL Basic
+443,Branch,Gawaldar,12/07/2017,Carding,HBL Gold & Green Credit Card
+444,Call Center,Mardan,7/27/2018,Carding,HBL Platinum CreditCard
+445,Call Center,Karachi,2/15/2018,Card Rejected,HBL FreedomAccount
+446,Branch,Mardan,06/02/2018,Card Lost,Term Deposit Account
+447,Branch,Mardan,5/28/2018,Carding,HBL AsaanAccount
+448,Call Center,Gawaldar,05/02/2018,Card Rejected,HBL FreedomAccount
+449,Call Center,Mardan,12/25/2017,Card Rejected,HBL Gold & Green Credit Card
+450,Branch,Mardan,12/07/2017,Card Lost,HBL AsaanAccount
+451,Call Center,Karachi,12/29/2017,Card Rejected,HBL FreedomAccount
+452,Call Center,Mardan,07/07/2018,Carding,Term Deposit Account
+453,Call Center,Karachi,5/24/2018,Card Lost,HBL AsaanAccount
+454,Branch,Mardan,07/01/2018,Carding,HBL FreedomAccount
+455,Branch,Karachi,2/16/2018,Card Rejected,HBL Platinum CreditCard
+456,Branch,Mardan,2/21/2018,Card Rejected,HBL Gold & Green Credit Card
+457,Branch,Gawaldar,12/10/2017,Card Lost,HBL Gold & Green Credit Card
+458,Call Center,Lahore,01/09/2018,Card Rejected,Term Deposit Account
+459,Call Center,Mardan,06/06/2018,Carding,HBL FreedomAccount
+460,Call Center,Gawaldar,5/25/2018,Carding,HBL Gold & Green Credit Card
+461,Call Center,Karachi,3/15/2018,Carding,HBL FreedomAccount
+462,Call Center,Mardan,11/19/2017,Card Rejected,HBL FreedomAccount
+463,Branch,Lahore,11/16/2017,Card Rejected,HBL Gold & Green Credit Card
+464,Call Center,Gawaldar,05/07/2018,Carding,HBL Platinum CreditCard
+465,Call Center,Gawaldar,10/05/2017,Carding,Term Deposit Account
+466,Call Center,Mardan,10/11/2017,Card Rejected,HBL FreedomAccount
+467,Branch,Lahore,03/12/2018,Card Rejected,Term Deposit Account
+468,Branch,Lahore,05/12/2018,Carding,HBL Gold & Green Credit Card
+469,Branch,Gawaldar,12/25/2017,Carding,HBL Gold & Green Credit Card
+470,Branch,Gawaldar,1/22/2018,Card Rejected,HBL AsaanAccount
+471,Call Center,Mardan,06/05/2018,Card Lost,HBL Basic
+472,Call Center,Gawaldar,03/11/2018,Card Rejected,HBL Platinum CreditCard
+473,Call Center,Gawaldar,02/07/2018,Carding,HBL Gold & Green Credit Card
+474,Call Center,Mardan,12/21/2017,Card Lost,HBL Platinum CreditCard
+475,Call Center,Lahore,01/06/2018,Carding,HBL FreedomAccount
+476,Branch,Karachi,10/08/2017,Card Lost,HBL Basic
+477,Branch,Gawaldar,6/19/2018,Carding,HBL AsaanAccount
+478,Call Center,Karachi,8/27/2018,Carding,HBL Gold & Green Credit Card
+479,Branch,Karachi,1/23/2018,Carding,HBL AsaanAccount
+480,Call Center,Lahore,7/20/2018,Carding,HBL AsaanAccount
+481,Branch,Karachi,06/07/2018,Carding,HBL AsaanAccount
+482,Call Center,Karachi,2/14/2018,Card Lost,HBL Gold & Green Credit Card
+483,Branch,Gawaldar,7/20/2018,Carding,HBL FreedomAccount
+484,Call Center,Lahore,3/15/2018,Carding,HBL FreedomAccount
+485,Branch,Lahore,02/08/2018,Card Lost,HBL FreedomAccount
+486,Branch,Gawaldar,12/09/2017,Card Rejected,HBL FreedomAccount
+487,Call Center,Karachi,08/04/2018,Card Lost,Term Deposit Account
+488,Call Center,Gawaldar,4/16/2018,Card Rejected,HBL FreedomAccount
+489,Call Center,Karachi,6/20/2018,Card Rejected,HBL Gold & Green Credit Card
+490,Call Center,Lahore,10/08/2017,Card Lost,HBL Gold & Green Credit Card
+491,Call Center,Karachi,4/24/2018,Card Rejected,HBL Gold & Green Credit Card
+492,Call Center,Mardan,3/21/2018,Carding,HBL AsaanAccount
+493,Branch,Lahore,6/22/2018,Card Rejected,HBL FreedomAccount
+494,Call Center,Karachi,12/30/2017,Carding,HBL Basic
+495,Branch,Karachi,8/26/2018,Card Rejected,HBL FreedomAccount
+496,Call Center,Lahore,09/07/2017,Card Lost,HBL Gold & Green Credit Card
+497,Call Center,Gawaldar,11/19/2017,Carding,HBL Platinum CreditCard
+498,Branch,Mardan,2/16/2018,Card Lost,HBL Platinum CreditCard
+499,Call Center,Lahore,9/16/2017,Card Lost,HBL Gold & Green Credit Card
+500,Branch,Gawaldar,03/05/2018,Card Rejected,HBL FreedomAccount
+501,Call Center,Karachi,03/03/2018,Card Lost,Term Deposit Account
+502,Call Center,Karachi,8/27/2018,Card Rejected,HBL Basic
+503,Call Center,Mardan,05/05/2018,Card Lost,HBL FreedomAccount
+504,Call Center,Karachi,6/23/2018,Card Lost,HBL Platinum CreditCard
+505,Call Center,Lahore,6/14/2018,Card Rejected,HBL Gold & Green Credit Card
+506,Call Center,Mardan,7/19/2018,Card Rejected,HBL Platinum CreditCard
+507,Branch,Gawaldar,1/30/2018,Card Rejected,Term Deposit Account
+508,Branch,Mardan,9/26/2017,Carding,HBL Basic
+509,Branch,Lahore,11/26/2017,Carding,HBL Gold & Green Credit Card
+510,Branch,Lahore,12/08/2017,Carding,HBL FreedomAccount
+511,Branch,Karachi,2/28/2018,Carding,HBL Platinum CreditCard
+512,Branch,Gawaldar,3/22/2018,Carding,HBL AsaanAccount
+513,Branch,Karachi,11/13/2017,Card Rejected,HBL Platinum CreditCard
+514,Call Center,Gawaldar,1/14/2018,Card Rejected,HBL AsaanAccount
+515,Call Center,Karachi,1/23/2018,Card Rejected,HBL Platinum CreditCard
+516,Call Center,Karachi,4/28/2018,Carding,HBL Platinum CreditCard
+517,Call Center,Mardan,10/28/2017,Card Lost,Term Deposit Account
+518,Branch,Mardan,02/05/2018,Card Lost,HBL Basic
+519,Branch,Karachi,12/23/2017,Card Rejected,HBL Basic
+520,Branch,Gawaldar,05/07/2018,Card Lost,HBL FreedomAccount
+521,Call Center,Gawaldar,1/28/2018,Card Lost,HBL AsaanAccount
+522,Branch,Gawaldar,10/28/2017,Carding,HBL FreedomAccount
+523,Branch,Lahore,8/27/2018,Card Lost,Term Deposit Account
+524,Branch,Mardan,12/03/2017,Carding,HBL Basic
+525,Branch,Gawaldar,05/11/2018,Carding,Term Deposit Account
+526,Call Center,Mardan,8/14/2018,Card Lost,HBL Basic
+527,Call Center,Mardan,10/23/2017,Card Rejected,Term Deposit Account
+528,Call Center,Lahore,3/15/2018,Carding,HBL Platinum CreditCard
+529,Branch,Mardan,08/05/2018,Carding,HBL AsaanAccount
+530,Branch,Lahore,7/20/2018,Card Rejected,HBL FreedomAccount
+531,Call Center,Mardan,6/24/2018,Card Lost,HBL Gold & Green Credit Card
+532,Call Center,Karachi,10/25/2017,Card Lost,HBL Gold & Green Credit Card
+533,Call Center,Lahore,3/26/2018,Card Rejected,HBL Platinum CreditCard
+534,Branch,Karachi,08/01/2018,Card Rejected,HBL FreedomAccount
+535,Branch,Lahore,12/20/2017,Carding,HBL Platinum CreditCard
+536,Call Center,Karachi,09/05/2017,Carding,HBL Basic
+537,Call Center,Mardan,10/13/2017,Carding,HBL Gold & Green Credit Card
+538,Branch,Karachi,10/02/2017,Card Lost,Term Deposit Account
+539,Call Center,Gawaldar,12/11/2017,Card Lost,HBL AsaanAccount
+540,Call Center,Mardan,12/15/2017,Card Rejected,Term Deposit Account
+541,Branch,Karachi,05/03/2018,Card Lost,HBL AsaanAccount
+542,Branch,Lahore,06/03/2018,Card Lost,HBL AsaanAccount
+543,Branch,Gawaldar,3/21/2018,Card Rejected,HBL Platinum CreditCard
+544,Branch,Lahore,4/18/2018,Carding,HBL Gold & Green Credit Card
+545,Branch,Mardan,2/24/2018,Card Rejected,HBL Gold & Green Credit Card
+546,Call Center,Karachi,10/05/2017,Card Lost,Term Deposit Account
+547,Call Center,Lahore,7/15/2018,Card Lost,HBL Basic
+548,Branch,Mardan,10/08/2017,Carding,HBL AsaanAccount
+549,Call Center,Karachi,03/03/2018,Carding,Term Deposit Account
+550,Call Center,Karachi,01/08/2018,Carding,HBL Platinum CreditCard
+551,Branch,Karachi,7/22/2018,Card Lost,HBL AsaanAccount
+552,Call Center,Gawaldar,06/07/2018,Card Lost,Term Deposit Account
+553,Branch,Karachi,11/04/2017,Carding,HBL Basic
+554,Branch,Lahore,5/15/2018,Card Lost,HBL Gold & Green Credit Card
+555,Call Center,Karachi,05/06/2018,Card Lost,HBL FreedomAccount
+556,Call Center,Lahore,08/01/2018,Carding,Term Deposit Account
+557,Branch,Mardan,01/05/2018,Carding,HBL Basic
+558,Call Center,Karachi,10/26/2017,Card Rejected,HBL Basic
+559,Branch,Karachi,11/11/2017,Card Lost,HBL Basic
+560,Call Center,Karachi,10/22/2017,Card Rejected,HBL Gold & Green Credit Card
+561,Branch,Lahore,01/04/2018,Carding,HBL Platinum CreditCard
+562,Branch,Karachi,07/04/2018,Card Lost,HBL Gold & Green Credit Card
+563,Branch,Gawaldar,12/16/2017,Card Lost,HBL Basic
+564,Call Center,Lahore,11/24/2017,Card Lost,HBL Basic
+565,Branch,Mardan,04/02/2018,Carding,HBL Gold & Green Credit Card
+566,Branch,Karachi,1/21/2018,Card Lost,HBL Gold & Green Credit Card
+567,Branch,Lahore,5/16/2018,Card Rejected,HBL FreedomAccount
+568,Branch,Gawaldar,10/09/2017,Card Lost,Term Deposit Account
+569,Call Center,Lahore,2/15/2018,Carding,HBL AsaanAccount
+570,Branch,Gawaldar,12/31/2017,Card Rejected,Term Deposit Account
+571,Branch,Lahore,02/08/2018,Carding,HBL Basic
+572,Branch,Mardan,01/11/2018,Card Lost,HBL Platinum CreditCard
+573,Call Center,Karachi,12/22/2017,Carding,HBL FreedomAccount
+574,Branch,Mardan,02/06/2018,Carding,HBL AsaanAccount
+575,Branch,Karachi,6/28/2018,Carding,HBL FreedomAccount
+576,Call Center,Lahore,10/17/2017,Carding,HBL Gold & Green Credit Card
+577,Branch,Karachi,06/10/2018,Card Rejected,Term Deposit Account
+578,Call Center,Lahore,12/31/2017,Card Rejected,HBL Platinum CreditCard
+579,Call Center,Mardan,04/06/2018,Carding,Term Deposit Account
+580,Call Center,Karachi,8/26/2018,Card Lost,HBL FreedomAccount
+581,Branch,Gawaldar,3/16/2018,Card Rejected,HBL FreedomAccount
+582,Call Center,Gawaldar,02/03/2018,Card Lost,HBL Gold & Green Credit Card
+583,Call Center,Lahore,03/07/2018,Card Rejected,Term Deposit Account
+584,Call Center,Karachi,7/27/2018,Card Rejected,Term Deposit Account
+585,Call Center,Karachi,1/31/2018,Card Rejected,HBL AsaanAccount
+586,Call Center,Lahore,11/29/2017,Card Rejected,HBL Basic
+587,Branch,Gawaldar,3/22/2018,Carding,HBL Platinum CreditCard
+588,Branch,Lahore,8/14/2018,Card Lost,HBL Basic
+589,Branch,Lahore,9/29/2017,Card Lost,HBL Platinum CreditCard
+590,Branch,Karachi,12/19/2017,Card Rejected,HBL AsaanAccount
+591,Branch,Mardan,3/15/2018,Card Rejected,HBL FreedomAccount
+592,Branch,Karachi,03/09/2018,Carding,HBL Basic
+593,Call Center,Karachi,05/11/2018,Carding,HBL Basic
+594,Branch,Lahore,9/18/2017,Carding,HBL Basic
+595,Branch,Lahore,4/16/2018,Card Rejected,HBL Platinum CreditCard
+596,Branch,Gawaldar,4/18/2018,Card Lost,HBL FreedomAccount
+597,Branch,Lahore,05/11/2018,Carding,HBL FreedomAccount
+598,Branch,Mardan,11/04/2017,Carding,Term Deposit Account
+599,Call Center,Karachi,9/20/2017,Card Lost,HBL Gold & Green Credit Card
+600,Call Center,Gawaldar,10/20/2017,Carding,HBL AsaanAccount
+601,Branch,Karachi,5/21/2018,Card Lost,HBL Platinum CreditCard
+602,Branch,Gawaldar,2/19/2018,Card Lost,HBL Gold & Green Credit Card
+603,Branch,Karachi,11/11/2017,Carding,HBL FreedomAccount
+604,Branch,Lahore,11/16/2017,Carding,HBL AsaanAccount
+605,Branch,Gawaldar,6/15/2018,Card Lost,HBL Basic
+606,Call Center,Gawaldar,10/08/2017,Card Lost,HBL Platinum CreditCard
+607,Call Center,Karachi,12/18/2017,Card Lost,HBL Platinum CreditCard
+608,Call Center,Karachi,1/23/2018,Carding,HBL Gold & Green Credit Card
+609,Call Center,Mardan,9/17/2017,Card Rejected,HBL Gold & Green Credit Card
+610,Call Center,Mardan,08/04/2018,Card Rejected,HBL Basic
+611,Call Center,Lahore,6/24/2018,Carding,HBL Basic
+612,Branch,Karachi,10/20/2017,Card Rejected,Term Deposit Account
+613,Branch,Karachi,7/24/2018,Carding,Term Deposit Account
+614,Call Center,Karachi,12/18/2017,Carding,HBL Basic
+615,Call Center,Mardan,07/12/2018,Card Lost,HBL FreedomAccount
+616,Branch,Karachi,11/19/2017,Card Lost,HBL Basic
+617,Branch,Karachi,2/17/2018,Card Lost,HBL Gold & Green Credit Card
+618,Branch,Lahore,12/27/2017,Carding,HBL FreedomAccount
+619,Branch,Mardan,7/22/2018,Carding,HBL AsaanAccount
+620,Branch,Karachi,09/09/2017,Card Rejected,HBL Basic
+621,Call Center,Gawaldar,10/07/2017,Card Rejected,HBL AsaanAccount
+622,Call Center,Gawaldar,07/07/2018,Card Lost,HBL Platinum CreditCard
+623,Branch,Karachi,3/21/2018,Card Lost,HBL AsaanAccount
+624,Call Center,Lahore,01/05/2018,Carding,HBL Platinum CreditCard
+625,Branch,Mardan,10/29/2017,Carding,Term Deposit Account
+626,Branch,Lahore,04/02/2018,Card Rejected,HBL Basic
+627,Call Center,Gawaldar,01/02/2018,Card Lost,HBL Gold & Green Credit Card
+628,Call Center,Gawaldar,10/05/2017,Card Lost,HBL AsaanAccount
+629,Branch,Lahore,3/29/2018,Card Rejected,HBL Gold & Green Credit Card
+630,Branch,Lahore,1/16/2018,Carding,HBL FreedomAccount
+631,Call Center,Mardan,2/19/2018,Carding,Term Deposit Account
+632,Branch,Karachi,1/16/2018,Carding,HBL FreedomAccount
+633,Call Center,Lahore,03/11/2018,Card Lost,HBL Basic
+634,Branch,Karachi,12/07/2017,Carding,Term Deposit Account
+635,Branch,Mardan,10/11/2017,Card Rejected,HBL Basic
+636,Branch,Mardan,9/30/2017,Card Lost,HBL AsaanAccount
+637,Call Center,Gawaldar,12/14/2017,Card Rejected,HBL Platinum CreditCard
+638,Branch,Gawaldar,4/18/2018,Card Lost,Term Deposit Account
+639,Branch,Gawaldar,08/04/2018,Carding,Term Deposit Account
+640,Branch,Karachi,7/13/2018,Card Rejected,HBL FreedomAccount
+641,Call Center,Lahore,8/24/2018,Card Lost,HBL AsaanAccount
+642,Branch,Lahore,8/24/2018,Card Lost,Term Deposit Account
+643,Branch,Karachi,09/05/2017,Card Rejected,HBL FreedomAccount
+644,Branch,Karachi,8/19/2018,Card Lost,HBL FreedomAccount
+645,Branch,Karachi,5/28/2018,Card Lost,HBL Basic
+646,Call Center,Gawaldar,1/25/2018,Carding,HBL Platinum CreditCard
+647,Branch,Gawaldar,7/17/2018,Carding,Term Deposit Account
+648,Call Center,Karachi,2/20/2018,Card Rejected,Term Deposit Account
+649,Call Center,Mardan,11/04/2017,Carding,HBL Basic
+650,Call Center,Lahore,12/23/2017,Card Rejected,Term Deposit Account
+651,Call Center,Lahore,04/10/2018,Carding,HBL Basic
+652,Call Center,Mardan,2/26/2018,Carding,HBL Gold & Green Credit Card
+653,Branch,Karachi,10/01/2017,Carding,HBL Platinum CreditCard
+654,Branch,Gawaldar,12/23/2017,Carding,HBL Gold & Green Credit Card
+655,Branch,Lahore,12/25/2017,Carding,HBL Platinum CreditCard
+656,Call Center,Karachi,08/11/2018,Carding,Term Deposit Account
+657,Branch,Lahore,2/23/2018,Card Lost,HBL Basic
+658,Call Center,Karachi,03/01/2018,Carding,HBL AsaanAccount
+659,Branch,Mardan,11/25/2017,Card Lost,HBL FreedomAccount
+660,Branch,Karachi,11/24/2017,Carding,HBL Platinum CreditCard
+661,Call Center,Lahore,4/13/2018,Carding,HBL Basic
+662,Call Center,Karachi,3/23/2018,Card Rejected,HBL Gold & Green Credit Card
+663,Branch,Gawaldar,3/26/2018,Carding,HBL FreedomAccount
+664,Call Center,Karachi,9/17/2017,Card Rejected,HBL FreedomAccount
+665,Call Center,Karachi,6/29/2018,Card Lost,HBL AsaanAccount
+666,Call Center,Lahore,02/02/2018,Card Rejected,HBL Basic
+667,Call Center,Mardan,2/28/2018,Card Rejected,HBL FreedomAccount
+668,Branch,Gawaldar,03/09/2018,Card Rejected,HBL Gold & Green Credit Card
+669,Call Center,Gawaldar,4/15/2018,Carding,HBL AsaanAccount
+670,Branch,Gawaldar,03/11/2018,Carding,HBL AsaanAccount
+671,Call Center,Karachi,4/21/2018,Carding,HBL FreedomAccount
+672,Branch,Gawaldar,9/13/2017,Card Rejected,HBL Gold & Green Credit Card
+673,Call Center,Mardan,8/25/2018,Card Lost,HBL AsaanAccount
+674,Branch,Lahore,01/06/2018,Carding,HBL AsaanAccount
+675,Call Center,Lahore,8/18/2018,Carding,HBL Gold & Green Credit Card
+676,Branch,Mardan,11/17/2017,Card Rejected,HBL Gold & Green Credit Card
+677,Call Center,Karachi,3/13/2018,Carding,HBL Basic
+678,Call Center,Karachi,11/06/2017,Card Lost,HBL FreedomAccount
+679,Call Center,Mardan,4/20/2018,Card Lost,HBL AsaanAccount
+680,Call Center,Lahore,05/02/2018,Card Rejected,HBL Platinum CreditCard
+681,Branch,Karachi,3/24/2018,Card Rejected,Term Deposit Account
+682,Branch,Mardan,06/01/2018,Card Rejected,HBL Gold & Green Credit Card
+683,Branch,Mardan,01/03/2018,Card Lost,Term Deposit Account
+684,Branch,Mardan,09/08/2017,Card Lost,HBL Basic
+685,Branch,Gawaldar,09/12/2017,Card Rejected,HBL Platinum CreditCard
+686,Call Center,Karachi,11/22/2017,Carding,HBL FreedomAccount
+687,Call Center,Karachi,10/13/2017,Card Rejected,HBL Gold & Green Credit Card
+688,Call Center,Lahore,12/25/2017,Carding,HBL Gold & Green Credit Card
+689,Branch,Mardan,05/09/2018,Carding,HBL AsaanAccount
+690,Call Center,Gawaldar,11/28/2017,Carding,Term Deposit Account
+691,Branch,Karachi,09/03/2017,Carding,Term Deposit Account
+692,Call Center,Mardan,1/24/2018,Card Rejected,HBL Platinum CreditCard
+693,Call Center,Karachi,02/02/2018,Card Lost,HBL AsaanAccount
+694,Branch,Lahore,6/20/2018,Card Lost,HBL Basic
+695,Branch,Lahore,5/23/2018,Card Rejected,HBL Basic
+696,Call Center,Karachi,02/10/2018,Card Lost,HBL AsaanAccount
+697,Branch,Lahore,4/13/2018,Card Rejected,HBL Gold & Green Credit Card
+698,Call Center,Gawaldar,5/26/2018,Carding,HBL AsaanAccount
+699,Branch,Gawaldar,10/11/2017,Card Rejected,Term Deposit Account
+700,Call Center,Karachi,11/15/2017,Card Lost,Term Deposit Account
+701,Branch,Karachi,12/12/2017,Card Lost,HBL Gold & Green Credit Card
+702,Branch,Karachi,6/30/2018,Card Rejected,HBL AsaanAccount
+703,Branch,Gawaldar,05/02/2018,Card Rejected,HBL AsaanAccount
+704,Call Center,Lahore,10/08/2017,Carding,HBL Platinum CreditCard
+705,Branch,Mardan,6/23/2018,Card Lost,HBL Platinum CreditCard
+706,Call Center,Karachi,07/05/2018,Card Rejected,HBL Gold & Green Credit Card
+707,Call Center,Karachi,09/10/2017,Carding,Term Deposit Account
+708,Call Center,Lahore,03/06/2018,Carding,HBL AsaanAccount
+709,Call Center,Karachi,10/05/2017,Carding,HBL Gold & Green Credit Card
+710,Call Center,Karachi,05/07/2018,Card Lost,HBL AsaanAccount
+711,Branch,Karachi,04/07/2018,Card Rejected,HBL AsaanAccount
+712,Branch,Karachi,4/16/2018,Card Lost,HBL FreedomAccount
+713,Branch,Gawaldar,6/13/2018,Card Rejected,Term Deposit Account
+714,Call Center,Mardan,06/06/2018,Card Rejected,HBL Basic
+715,Branch,Karachi,11/08/2017,Card Lost,HBL AsaanAccount
+716,Call Center,Lahore,06/03/2018,Card Rejected,HBL Platinum CreditCard
+717,Call Center,Lahore,9/19/2017,Card Rejected,HBL Platinum CreditCard
+718,Branch,Lahore,3/13/2018,Card Lost,Term Deposit Account
+719,Branch,Gawaldar,03/08/2018,Card Lost,Term Deposit Account
+720,Branch,Gawaldar,3/15/2018,Carding,HBL Platinum CreditCard
+721,Branch,Mardan,6/30/2018,Carding,Term Deposit Account
+722,Branch,Karachi,11/01/2017,Card Lost,HBL FreedomAccount
+723,Call Center,Mardan,02/11/2018,Carding,HBL FreedomAccount
+724,Branch,Karachi,1/25/2018,Carding,HBL AsaanAccount
+725,Branch,Gawaldar,06/02/2018,Card Rejected,HBL Platinum CreditCard
+726,Branch,Lahore,1/24/2018,Card Rejected,HBL Gold & Green Credit Card
+727,Call Center,Karachi,6/21/2018,Card Lost,HBL AsaanAccount
+728,Branch,Lahore,4/20/2018,Card Rejected,HBL FreedomAccount
+729,Call Center,Gawaldar,2/16/2018,Carding,Term Deposit Account
+730,Call Center,Karachi,5/30/2018,Card Lost,HBL FreedomAccount
+731,Branch,Lahore,09/12/2017,Carding,HBL Basic
+732,Branch,Mardan,5/21/2018,Carding,HBL AsaanAccount
+733,Branch,Karachi,04/01/2018,Card Rejected,HBL Basic
+734,Branch,Karachi,8/24/2018,Carding,Term Deposit Account
+735,Call Center,Mardan,5/29/2018,Card Rejected,HBL Basic
+736,Branch,Lahore,10/17/2017,Card Lost,HBL FreedomAccount
+737,Call Center,Karachi,6/20/2018,Carding,Term Deposit Account
+738,Branch,Lahore,08/12/2018,Carding,HBL Basic
+739,Branch,Gawaldar,11/17/2017,Card Rejected,HBL Gold & Green Credit Card
+740,Branch,Karachi,08/05/2018,Carding,HBL Gold & Green Credit Card
+741,Call Center,Mardan,11/26/2017,Carding,HBL Basic
+742,Call Center,Lahore,11/06/2017,Card Lost,HBL Platinum CreditCard
+743,Branch,Gawaldar,11/07/2017,Carding,HBL AsaanAccount
+744,Call Center,Gawaldar,10/30/2017,Carding,HBL FreedomAccount
+745,Branch,Lahore,04/04/2018,Card Lost,HBL Gold & Green Credit Card
+746,Branch,Mardan,4/29/2018,Card Rejected,HBL Platinum CreditCard
+747,Branch,Mardan,7/18/2018,Card Lost,Term Deposit Account
+748,Branch,Mardan,6/13/2018,Card Lost,HBL Basic
+749,Branch,Gawaldar,07/05/2018,Carding,HBL Gold & Green Credit Card
+750,Branch,Lahore,04/12/2018,Card Lost,HBL Gold & Green Credit Card
+751,Branch,Lahore,1/20/2018,Card Rejected,Term Deposit Account
+752,Branch,Mardan,1/29/2018,Carding,HBL Basic
+753,Branch,Mardan,08/12/2018,Card Rejected,HBL AsaanAccount
+754,Call Center,Mardan,3/15/2018,Card Rejected,HBL FreedomAccount
+755,Branch,Mardan,3/20/2018,Carding,HBL Platinum CreditCard
+756,Branch,Lahore,09/12/2017,Card Rejected,HBL Basic
+757,Call Center,Karachi,5/18/2018,Carding,HBL Basic
+758,Call Center,Karachi,03/12/2018,Carding,Term Deposit Account
+759,Call Center,Karachi,10/04/2017,Carding,HBL Basic
+760,Branch,Gawaldar,10/19/2017,Card Lost,HBL Basic
+761,Call Center,Gawaldar,10/19/2017,Card Rejected,Term Deposit Account
+762,Branch,Lahore,10/15/2017,Card Lost,HBL AsaanAccount
+763,Branch,Karachi,5/15/2018,Carding,HBL Platinum CreditCard
+764,Branch,Lahore,5/13/2018,Card Lost,HBL Gold & Green Credit Card
+765,Branch,Mardan,09/01/2017,Card Lost,HBL Gold & Green Credit Card
+766,Call Center,Karachi,05/08/2018,Carding,HBL Basic
+767,Call Center,Lahore,06/06/2018,Card Lost,HBL Gold & Green Credit Card
+768,Branch,Mardan,04/11/2018,Card Rejected,HBL Basic
+769,Call Center,Gawaldar,9/14/2017,Card Rejected,HBL Platinum CreditCard
+770,Call Center,Karachi,7/20/2018,Carding,HBL Platinum CreditCard
+771,Call Center,Gawaldar,5/15/2018,Card Rejected,Term Deposit Account
+772,Call Center,Karachi,4/17/2018,Card Lost,HBL Basic
+773,Branch,Mardan,04/07/2018,Card Lost,HBL FreedomAccount
+774,Call Center,Karachi,03/06/2018,Card Lost,HBL Platinum CreditCard
+775,Call Center,Mardan,01/10/2018,Card Rejected,HBL AsaanAccount
+776,Branch,Lahore,1/20/2018,Card Lost,HBL Basic
+777,Branch,Gawaldar,11/16/2017,Carding,HBL Platinum CreditCard
+778,Branch,Gawaldar,08/05/2018,Carding,HBL AsaanAccount
+779,Branch,Mardan,6/21/2018,Card Lost,HBL AsaanAccount
+780,Branch,Gawaldar,6/26/2018,Carding,HBL FreedomAccount
+781,Branch,Mardan,10/06/2017,Card Lost,Term Deposit Account
+782,Call Center,Gawaldar,11/13/2017,Carding,HBL Gold & Green Credit Card
+783,Branch,Karachi,7/29/2018,Card Rejected,HBL AsaanAccount
+784,Branch,Lahore,10/05/2017,Card Rejected,HBL AsaanAccount
+785,Branch,Mardan,6/22/2018,Card Lost,HBL FreedomAccount
+786,Branch,Karachi,12/22/2017,Card Rejected,HBL Platinum CreditCard
+787,Call Center,Lahore,5/19/2018,Carding,HBL Platinum CreditCard
+788,Branch,Mardan,03/07/2018,Card Rejected,Term Deposit Account
+789,Branch,Gawaldar,02/02/2018,Card Rejected,HBL Platinum CreditCard
+790,Branch,Lahore,5/30/2018,Card Rejected,Term Deposit Account
+791,Branch,Lahore,2/17/2018,Card Lost,HBL Platinum CreditCard
+792,Call Center,Lahore,12/29/2017,Card Rejected,HBL Platinum CreditCard
+793,Call Center,Mardan,04/03/2018,Carding,HBL Gold & Green Credit Card
+794,Branch,Lahore,3/23/2018,Card Lost,HBL Platinum CreditCard
+795,Branch,Lahore,10/16/2017,Carding,HBL Basic
+796,Call Center,Gawaldar,3/30/2018,Card Rejected,Term Deposit Account
+797,Call Center,Karachi,07/07/2018,Card Lost,HBL FreedomAccount
+798,Branch,Karachi,07/06/2018,Card Lost,HBL AsaanAccount
+799,Call Center,Gawaldar,06/07/2018,Card Lost,HBL FreedomAccount
+800,Call Center,Mardan,8/31/2017,Carding,Term Deposit Account
+801,Call Center,Mardan,04/07/2018,Card Rejected,HBL Basic
+802,Call Center,Karachi,4/15/2018,Card Lost,HBL FreedomAccount
+803,Branch,Lahore,11/08/2017,Card Lost,HBL Platinum CreditCard
+804,Branch,Mardan,7/31/2018,Carding,Term Deposit Account
+805,Branch,Karachi,03/05/2018,Carding,HBL Basic
+806,Branch,Mardan,8/29/2017,Card Lost,Term Deposit Account
+807,Call Center,Lahore,01/11/2018,Carding,HBL FreedomAccount
+808,Branch,Karachi,1/14/2018,Carding,HBL Gold & Green Credit Card
+809,Call Center,Karachi,1/29/2018,Card Rejected,HBL Basic
+810,Call Center,Mardan,03/07/2018,Carding,Term Deposit Account
+811,Branch,Mardan,10/07/2017,Carding,HBL Basic
+812,Branch,Mardan,9/26/2017,Card Lost,HBL Platinum CreditCard
+813,Call Center,Gawaldar,11/17/2017,Card Rejected,HBL Basic
+814,Call Center,Lahore,3/26/2018,Carding,HBL Basic
+815,Branch,Mardan,1/28/2018,Carding,HBL Gold & Green Credit Card
+816,Branch,Mardan,5/25/2018,Carding,HBL FreedomAccount
+817,Call Center,Mardan,10/14/2017,Carding,HBL FreedomAccount
+818,Call Center,Gawaldar,05/12/2018,Card Rejected,HBL FreedomAccount
+819,Branch,Karachi,2/15/2018,Carding,HBL Platinum CreditCard
+820,Call Center,Lahore,03/02/2018,Card Lost,HBL FreedomAccount
+821,Call Center,Gawaldar,5/23/2018,Card Lost,HBL Gold & Green Credit Card
+822,Call Center,Mardan,1/20/2018,Card Lost,HBL Gold & Green Credit Card
+823,Branch,Lahore,3/14/2018,Card Rejected,HBL FreedomAccount
+824,Call Center,Lahore,08/11/2018,Card Lost,HBL FreedomAccount
+825,Call Center,Mardan,2/17/2018,Card Lost,HBL FreedomAccount
+826,Branch,Lahore,11/03/2017,Card Lost,HBL Platinum CreditCard
+827,Call Center,Lahore,9/16/2017,Card Lost,HBL Basic
+828,Branch,Gawaldar,1/26/2018,Card Rejected,Term Deposit Account
+829,Branch,Mardan,1/16/2018,Card Rejected,HBL Gold & Green Credit Card
+830,Branch,Gawaldar,2/13/2018,Carding,Term Deposit Account
+831,Call Center,Karachi,12/04/2017,Carding,HBL FreedomAccount
+832,Branch,Gawaldar,10/07/2017,Card Rejected,HBL FreedomAccount
+833,Branch,Karachi,1/15/2018,Carding,Term Deposit Account
+834,Branch,Lahore,02/07/2018,Card Lost,HBL AsaanAccount
+835,Call Center,Gawaldar,3/24/2018,Card Rejected,HBL Platinum CreditCard
+836,Branch,Gawaldar,03/12/2018,Card Lost,Term Deposit Account
+837,Branch,Gawaldar,6/19/2018,Card Lost,HBL FreedomAccount
+838,Call Center,Gawaldar,10/22/2017,Carding,Term Deposit Account
+839,Call Center,Karachi,11/23/2017,Card Rejected,HBL AsaanAccount
+840,Call Center,Gawaldar,02/11/2018,Carding,Term Deposit Account
+841,Call Center,Karachi,7/21/2018,Carding,HBL FreedomAccount
+842,Call Center,Mardan,3/20/2018,Card Rejected,Term Deposit Account
+843,Branch,Gawaldar,03/04/2018,Carding,HBL Basic
+844,Branch,Karachi,02/08/2018,Card Rejected,Term Deposit Account
+845,Branch,Gawaldar,11/26/2017,Card Lost,HBL Basic
+846,Call Center,Lahore,6/20/2018,Card Lost,HBL AsaanAccount
+847,Call Center,Mardan,3/15/2018,Card Rejected,HBL FreedomAccount
+848,Call Center,Karachi,8/19/2018,Carding,HBL AsaanAccount
+849,Branch,Lahore,8/21/2018,Carding,HBL Platinum CreditCard
+850,Branch,Gawaldar,5/18/2018,Card Rejected,HBL Basic
+851,Call Center,Gawaldar,8/28/2018,Card Rejected,Term Deposit Account
+852,Call Center,Karachi,10/20/2017,Card Rejected,HBL AsaanAccount
+853,Branch,Gawaldar,09/01/2017,Card Rejected,HBL Platinum CreditCard
+854,Branch,Lahore,5/15/2018,Carding,HBL FreedomAccount
+855,Call Center,Lahore,2/26/2018,Card Rejected,HBL Basic
+856,Call Center,Lahore,9/28/2017,Card Rejected,Term Deposit Account
+857,Call Center,Karachi,10/06/2017,Carding,Term Deposit Account
+858,Branch,Karachi,10/29/2017,Carding,HBL Platinum CreditCard
+859,Call Center,Lahore,6/24/2018,Card Lost,HBL AsaanAccount
+860,Call Center,Karachi,09/07/2017,Carding,HBL Platinum CreditCard
+861,Call Center,Karachi,11/25/2017,Card Lost,HBL Platinum CreditCard
+862,Call Center,Karachi,3/31/2018,Carding,Term Deposit Account
+863,Call Center,Gawaldar,06/12/2018,Card Rejected,HBL Gold & Green Credit Card
+864,Call Center,Gawaldar,6/29/2018,Card Rejected,HBL FreedomAccount
+865,Branch,Karachi,11/08/2017,Card Lost,HBL Platinum CreditCard
+866,Branch,Lahore,3/27/2018,Carding,HBL Gold & Green Credit Card
+867,Branch,Lahore,2/18/2018,Card Rejected,HBL Basic
+868,Call Center,Gawaldar,6/29/2018,Card Rejected,HBL Basic
+869,Call Center,Gawaldar,5/18/2018,Carding,HBL AsaanAccount
+870,Call Center,Lahore,11/30/2017,Carding,HBL Platinum CreditCard
+871,Branch,Mardan,05/04/2018,Card Lost,HBL Gold & Green Credit Card
+872,Branch,Karachi,2/17/2018,Card Lost,HBL AsaanAccount
+873,Call Center,Gawaldar,12/13/2017,Carding,Term Deposit Account
+874,Call Center,Gawaldar,02/04/2018,Card Lost,HBL Gold & Green Credit Card
+875,Branch,Mardan,11/05/2017,Card Lost,HBL AsaanAccount
+876,Branch,Lahore,03/09/2018,Card Lost,HBL Basic
+877,Call Center,Gawaldar,06/08/2018,Card Lost,HBL Platinum CreditCard
+878,Branch,Lahore,1/13/2018,Carding,HBL Platinum CreditCard
+879,Call Center,Karachi,08/04/2018,Carding,HBL AsaanAccount
+880,Branch,Karachi,03/08/2018,Card Rejected,HBL Platinum CreditCard
+881,Branch,Gawaldar,05/08/2018,Card Lost,HBL FreedomAccount
+882,Branch,Karachi,6/24/2018,Card Rejected,HBL Platinum CreditCard
+883,Call Center,Mardan,02/11/2018,Card Lost,Term Deposit Account
+884,Call Center,Mardan,08/11/2018,Card Rejected,Term Deposit Account
+885,Call Center,Karachi,12/21/2017,Card Rejected,Term Deposit Account
+886,Branch,Lahore,9/23/2017,Carding,HBL FreedomAccount
+887,Call Center,Gawaldar,7/19/2018,Card Lost,HBL Gold & Green Credit Card
+888,Branch,Mardan,2/26/2018,Card Rejected,HBL FreedomAccount
+889,Branch,Lahore,10/05/2017,Carding,HBL FreedomAccount
+890,Call Center,Lahore,05/07/2018,Card Rejected,Term Deposit Account
+891,Branch,Mardan,11/16/2017,Card Rejected,HBL Platinum CreditCard
+892,Branch,Mardan,10/11/2017,Card Rejected,HBL Basic
+893,Call Center,Gawaldar,10/16/2017,Carding,Term Deposit Account
+894,Branch,Karachi,11/08/2017,Card Lost,HBL AsaanAccount
+895,Call Center,Lahore,7/14/2018,Card Rejected,HBL Gold & Green Credit Card
+896,Branch,Gawaldar,7/23/2018,Card Rejected,HBL FreedomAccount
+897,Branch,Gawaldar,11/08/2017,Card Rejected,HBL Gold & Green Credit Card
+898,Branch,Karachi,01/07/2018,Card Rejected,Term Deposit Account
+899,Branch,Mardan,9/18/2017,Card Lost,Term Deposit Account
+900,Call Center,Mardan,06/08/2018,Card Rejected,HBL FreedomAccount
+901,Branch,Mardan,07/03/2018,Card Lost,HBL FreedomAccount
+902,Branch,Gawaldar,02/06/2018,Card Lost,HBL Gold & Green Credit Card
+903,Branch,Karachi,7/20/2018,Card Rejected,HBL FreedomAccount
+904,Branch,Gawaldar,08/03/2018,Card Lost,HBL Platinum CreditCard
+905,Branch,Gawaldar,8/28/2018,Carding,HBL AsaanAccount
+906,Call Center,Gawaldar,11/01/2017,Card Rejected,HBL FreedomAccount
+907,Call Center,Gawaldar,4/30/2018,Card Lost,HBL FreedomAccount
+908,Branch,Lahore,6/15/2018,Card Lost,HBL Platinum CreditCard
+909,Branch,Lahore,12/25/2017,Card Rejected,Term Deposit Account
+910,Branch,Mardan,11/30/2017,Carding,HBL Platinum CreditCard
+911,Call Center,Gawaldar,09/02/2017,Card Rejected,HBL AsaanAccount
+912,Call Center,Karachi,6/22/2018,Carding,HBL AsaanAccount
+913,Branch,Karachi,6/24/2018,Card Rejected,HBL Gold & Green Credit Card
+914,Call Center,Lahore,8/23/2018,Card Lost,Term Deposit Account
+915,Branch,Gawaldar,8/18/2018,Carding,HBL Gold & Green Credit Card
+916,Branch,Mardan,12/21/2017,Card Lost,HBL AsaanAccount
+917,Call Center,Lahore,7/26/2018,Card Rejected,HBL AsaanAccount
+918,Branch,Gawaldar,3/22/2018,Card Rejected,HBL FreedomAccount
+919,Branch,Lahore,3/20/2018,Card Rejected,HBL Platinum CreditCard
+920,Call Center,Mardan,8/19/2018,Card Lost,HBL Gold & Green Credit Card
+921,Call Center,Karachi,2/19/2018,Carding,HBL Gold & Green Credit Card
+922,Call Center,Gawaldar,12/10/2017,Card Lost,HBL Gold & Green Credit Card
+923,Branch,Lahore,4/14/2018,Carding,Term Deposit Account
+924,Call Center,Lahore,12/17/2017,Card Rejected,HBL Gold & Green Credit Card
+925,Call Center,Gawaldar,7/16/2018,Carding,HBL AsaanAccount
+926,Branch,Gawaldar,4/23/2018,Card Rejected,HBL FreedomAccount
+927,Call Center,Gawaldar,1/17/2018,Card Rejected,HBL Basic
+928,Branch,Gawaldar,5/26/2018,Card Rejected,HBL AsaanAccount
+929,Branch,Lahore,1/13/2018,Carding,HBL AsaanAccount
+930,Branch,Gawaldar,5/20/2018,Card Lost,HBL Basic
+931,Call Center,Lahore,12/12/2017,Card Rejected,HBL Basic
+932,Branch,Gawaldar,4/23/2018,Carding,HBL Gold & Green Credit Card
+933,Call Center,Mardan,01/09/2018,Card Lost,Term Deposit Account
+934,Branch,Lahore,4/28/2018,Carding,HBL Platinum CreditCard
+935,Branch,Karachi,07/03/2018,Carding,HBL AsaanAccount
+936,Branch,Lahore,10/07/2017,Card Rejected,Term Deposit Account
+937,Branch,Karachi,9/29/2017,Card Lost,HBL Basic
+938,Call Center,Karachi,05/11/2018,Card Rejected,HBL FreedomAccount
+939,Branch,Gawaldar,5/27/2018,Carding,HBL Platinum CreditCard
+940,Branch,Mardan,12/20/2017,Carding,Term Deposit Account
+941,Branch,Gawaldar,01/09/2018,Card Lost,HBL AsaanAccount
+942,Branch,Mardan,03/06/2018,Carding,Term Deposit Account
+943,Branch,Gawaldar,08/01/2018,Card Rejected,HBL FreedomAccount
+944,Branch,Mardan,5/25/2018,Card Lost,HBL Gold & Green Credit Card
+945,Call Center,Mardan,9/25/2017,Card Rejected,Term Deposit Account
+946,Branch,Mardan,6/19/2018,Card Lost,HBL Gold & Green Credit Card
+947,Branch,Karachi,11/07/2017,Card Lost,HBL FreedomAccount
+948,Branch,Lahore,7/29/2018,Carding,HBL Gold & Green Credit Card
+949,Branch,Mardan,06/10/2018,Card Lost,HBL Gold & Green Credit Card
+950,Call Center,Mardan,1/14/2018,Card Lost,HBL Gold & Green Credit Card
+951,Call Center,Karachi,04/03/2018,Card Lost,HBL Gold & Green Credit Card
+952,Branch,Mardan,08/08/2018,Carding,HBL Platinum CreditCard
+953,Branch,Lahore,05/05/2018,Carding,HBL FreedomAccount
+954,Call Center,Gawaldar,7/21/2018,Card Rejected,HBL FreedomAccount
+955,Call Center,Lahore,10/09/2017,Carding,Term Deposit Account
+956,Branch,Lahore,09/06/2017,Carding,HBL Basic
+957,Branch,Lahore,7/18/2018,Card Lost,Term Deposit Account
+958,Call Center,Mardan,6/18/2018,Card Lost,HBL Gold & Green Credit Card
+959,Branch,Lahore,08/03/2018,Card Lost,Term Deposit Account
+960,Branch,Mardan,3/21/2018,Carding,Term Deposit Account
+961,Call Center,Mardan,05/05/2018,Card Rejected,HBL Platinum CreditCard
+962,Branch,Karachi,1/23/2018,Carding,Term Deposit Account
+963,Call Center,Gawaldar,08/01/2018,Card Lost,HBL FreedomAccount
+964,Call Center,Lahore,6/30/2018,Card Rejected,Term Deposit Account
+965,Call Center,Lahore,1/15/2018,Card Lost,Term Deposit Account
+966,Branch,Lahore,3/14/2018,Carding,HBL FreedomAccount
+967,Call Center,Lahore,4/16/2018,Card Rejected,HBL Gold & Green Credit Card
+968,Call Center,Gawaldar,08/05/2018,Carding,Term Deposit Account
+969,Branch,Karachi,1/17/2018,Card Rejected,HBL FreedomAccount
+970,Branch,Mardan,4/28/2018,Card Rejected,HBL Basic
+971,Branch,Mardan,11/12/2017,Carding,HBL Platinum CreditCard
+972,Branch,Gawaldar,09/12/2017,Card Rejected,HBL Basic
+973,Branch,Karachi,08/08/2018,Card Rejected,HBL AsaanAccount
+974,Branch,Mardan,10/19/2017,Card Rejected,HBL Basic
+975,Branch,Lahore,2/14/2018,Card Rejected,HBL FreedomAccount
+976,Branch,Mardan,1/13/2018,Card Rejected,Term Deposit Account
+977,Branch,Karachi,6/16/2018,Card Rejected,HBL FreedomAccount
+978,Call Center,Lahore,11/18/2017,Card Rejected,HBL Gold & Green Credit Card
+979,Call Center,Mardan,11/02/2017,Carding,HBL AsaanAccount
+980,Branch,Mardan,1/30/2018,Card Rejected,HBL Gold & Green Credit Card
+981,Branch,Lahore,5/14/2018,Carding,HBL Basic
+982,Branch,Gawaldar,6/20/2018,Carding,HBL AsaanAccount
+983,Call Center,Lahore,09/03/2017,Carding,Term Deposit Account
+984,Call Center,Karachi,12/10/2017,Card Rejected,HBL Platinum CreditCard
+985,Call Center,Karachi,7/22/2018,Card Lost,HBL AsaanAccount
+986,Call Center,Karachi,5/25/2018,Carding,HBL Gold & Green Credit Card
+987,Call Center,Mardan,9/16/2017,Carding,Term Deposit Account
+988,Branch,Gawaldar,1/13/2018,Card Rejected,HBL AsaanAccount
+989,Call Center,Karachi,3/24/2018,Card Rejected,HBL Platinum CreditCard
+990,Call Center,Mardan,12/17/2017,Carding,HBL FreedomAccount
+991,Call Center,Lahore,5/26/2018,Card Lost,HBL AsaanAccount
+992,Call Center,Mardan,4/23/2018,Card Rejected,HBL Gold & Green Credit Card
+993,Branch,Karachi,6/22/2018,Card Rejected,HBL AsaanAccount
+994,Branch,Mardan,02/04/2018,Carding,HBL AsaanAccount
+995,Branch,Gawaldar,6/26/2018,Card Lost,Term Deposit Account
+996,Call Center,Mardan,10/22/2017,Carding,Term Deposit Account
+997,Branch,Karachi,04/06/2018,Carding,HBL Gold & Green Credit Card
+998,Call Center,Lahore,04/12/2018,Card Lost,HBL Basic
+999,Call Center,Mardan,9/16/2017,Card Lost,HBL Platinum CreditCard
+1000,Call Center,Mardan,08/12/2018,Card Lost,Term Deposit Account
