@@ -1,6 +1,6 @@
 DROP TABLE customer;
 CREATE TABLE customer (
-  cif         VARCHAR2(255) DEFAULT NULL
+  cif         NUMBER(10)
 , name        VARCHAR2(255) DEFAULT NULL
 , branch_open VARCHAR2(255) DEFAULT NULL
 , birth_date  VARCHAR2(255) DEFAULT NULL

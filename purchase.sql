@@ -1,5 +1,5 @@
-DROP TABLE transaction;
-CREATE TABLE transaction (
+DROP TABLE purchase;
+CREATE TABLE purchase (
   tx_date       VARCHAR2(255) DEFAULT NULL
 , cif           VARCHAR2(255) DEFAULT NULL
 , source_of_tx  VARCHAR2(255) DEFAULT NULL

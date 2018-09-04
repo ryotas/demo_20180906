@@ -7,5 +7,8 @@ sqlldr demo/welcome1@orcl customer.ctl
 sqlplus demo/welcome1@orcl @complain.sql
 sqlldr demo/welcome1@orcl complain.ctl
 
-sqlplus demo/welcome1@orcl @transaction.sql
-sqlldr demo/welcome1@orcl transaction.ctl
+sqlplus demo/welcome1@orcl @purchase.sql
+sqlldr demo/welcome1@orcl purchase.ctl
+
+sqlplus demo/welcome1@orcl @additional.sql
+sqlldr demo/welcome1@orcl additional.ctl

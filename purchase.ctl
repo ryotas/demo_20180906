@@ -1,7 +1,7 @@
 OPTIONS (SKIP=1, DIRECT=TRUE)
 LOAD DATA
-INFILE 'transaction.csv'
-TRUNCATE INTO TABLE transaction
+INFILE 'purchase.csv'
+TRUNCATE INTO TABLE purchase
 FIELDS TERMINATED BY ','
 (
   tx_date
