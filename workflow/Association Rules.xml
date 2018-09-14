@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <WorkflowProcess Version="12.2.0.0.1" DBVersion="12.1.0.2.0" Schema="" xmlns="http://xmlns.oracle.com/odmr11">
     <Nodes>
-        <DataSource Id="10001" Name="TRANSACTION" Status="Complete">
+        <DataSource Id="10001" Name="PURCHASE" Status="Complete">
             <Icon XCOORD="154" YCOORD="297"></Icon>
             <Messages/>
             <Parallelism Enable="false">
@@ -13,31 +13,32 @@
                     <TopN/>
                 </Method>
             </CacheSettings>
-            <SQLExpression>"N$10001" as (select "TRANSACTION"."CIF", 
-"TRANSACTION"."SOURCE_OF_TX", 
-"TRANSACTION"."AMOUNT", 
-"TRANSACTION"."TX_DATE", 
-"TRANSACTION"."CURRENCY_CODE", 
-"TRANSACTION"."TX_ID", 
-"TRANSACTION"."MERCHANT" 
-from "DEMO"."TRANSACTION"  )</SQLExpression>
+            <SQLExpression>"N$10001" as (select "PURCHASE"."AMOUNT", 
+"PURCHASE"."CURRENCY_CODE", 
+"PURCHASE"."MERCHANT", 
+"PURCHASE"."SOURCE_OF_TX", 
+"PURCHASE"."TX_DATE", 
+"PURCHASE"."TX_ID", 
+"PURCHASE"."CIF" 
+from "DEMO"."PURCHASE"  )</SQLExpression>
             <Attributes>
                 <Attribute Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
-                <Attribute Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="CIF" DataType="NUMBER" Status="Valid"/>
                 <Attribute Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
                 <Attribute Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
                 <Attribute Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
                 <Attribute Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
                 <Attribute Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
             </Attributes>
-            <SourceTable Schema="" Name="TRANSACTION" Synonym="false"/>
+            <SourceTable Schema="" Name="PURCHASE" Synonym="false"/>
             <JSONColumns/>
             <DataGuideSettings Generate="true" UseFullData="false" UseFullDoc="false">
                 <NumberOfRows>2000</NumberOfRows>
                 <NumberOfValues>10000</NumberOfValues>
             </DataGuideSettings>
+            <includeAllAvailableAttributes>false</includeAllAvailableAttributes>
         </DataSource>
-        <CreateTable TableName="RESULT_ASSOC" Table="true" AutoSpec="Yes" Id="10012" Name="RESULT_ASSOC" Status="Complete">
+        <CreateTable TableName="PRED_ASSOC" Table="true" AutoSpec="Yes" Id="10012" Name="PRED_ASSOC" Status="Complete">
             <Icon XCOORD="621" YCOORD="298"></Icon>
             <Messages/>
             <Parallelism Enable="false">
@@ -53,7 +54,7 @@ from "DEMO"."TRANSACTION"  )</SQLExpression>
  "CONSEQUENT" ,
  "SUPPORT" ,
  "CONFIDENCE" ,
- "LIFT"  FROM "RESULT_ASSOC")</SQLExpression>
+ "LIFT"  FROM "PRED_ASSOC")</SQLExpression>
             <DBAttributes>
                 <DBAttribute Key="No" Index="No" Name="ANTECEDENT" DataType="VARCHAR2" Status="Valid"/>
                 <DBAttribute Key="No" Index="No" Name="CONSEQUENT" DataType="VARCHAR2" Status="Valid"/>
@@ -75,30 +76,30 @@ from "DEMO"."TRANSACTION"  )</SQLExpression>
             </Parallelism>
             <BuildDataSource SourceId="10001"/>
             <CaseAttributes>
-                <Attribute Name="CIF" DataType="VARCHAR2" Status="Valid"/>
+                <Attribute Name="CIF" DataType="NUMBER" Status="Valid"/>
             </CaseAttributes>
             <MiningAttributes AutoSpec="Yes">
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
-                <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CIF" DataType="VARCHAR2" Status="Valid"/>
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
                 <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
+                <MiningAttribute AutoPrep="Yes" MiningType="Numerical" Input="Yes" Name="CIF" DataType="NUMBER" Status="Valid"/>
             </MiningAttributes>
             <ASSO_AGGREGATES/>
             <ItemID Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
             <Models>
-                <AprioriModel Id="10002" Name="ASSOC_AP_1_7" Status="Complete" CreationDate="2018-09-02T03:01:07" Annotation="" UseForOutput="true">
+                <AprioriModel Id="10014" Name="ASSOC_AP_1_13" Status="Complete" CreationDate="2018-09-14T01:19:59" Annotation="" UseForOutput="true">
                     <InputMiningData DataUsage="MANUAL" MiningUsage="MANUAL">
                         <MiningAttributes>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="AMOUNT" DataType="VARCHAR2" Status="Valid"/>
-                            <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CIF" DataType="VARCHAR2" Status="Valid"/>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="CURRENCY_CODE" DataType="VARCHAR2" Status="Valid"/>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="MERCHANT" DataType="VARCHAR2" Status="Valid"/>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="SOURCE_OF_TX" DataType="VARCHAR2" Status="Valid"/>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_DATE" DataType="VARCHAR2" Status="Valid"/>
                             <MiningAttribute AutoPrep="Yes" MiningType="Categorical" Input="Yes" Name="TX_ID" DataType="VARCHAR2" Status="Valid"/>
+                            <MiningAttribute AutoPrep="Yes" MiningType="Numerical" Input="Yes" Name="CIF" DataType="NUMBER" Status="Valid"/>
                         </MiningAttributes>
                     </InputMiningData>
                     <AprioriAlgo>
@@ -123,7 +124,7 @@ from "DEMO"."TRANSACTION"  )</SQLExpression>
             </CacheSettings>
             <SQLExpression>"N$10007" as (
      SELECT CAST('DEMO' AS VARCHAR2(30)) as "MODEL_SCHEMA", 
-     CAST('ASSOC_AP_1_7' AS VARCHAR2(30)) as "MODEL_NAME", 
+     CAST('ASSOC_AP_1_13' AS VARCHAR2(30)) as "MODEL_NAME", 
      AR.rule_id as "ID", 
     dbms_xmlgen.CONVERT(REPLACE(REPLACE(REPLACE(EXTRACT(XMLELEMENT("R", XMLAGG( XMLELEMENT("V", NVL2( ant_pred.attribute_subname, ant_pred.attribute_name || '.' || ant_pred.attribute_subname, ant_pred.attribute_name) || ' ' || ant_pred.conditional_operator || ' '
          ||ant_pred.attribute_str_value
@@ -137,12 +138,12 @@ from "DEMO"."TRANSACTION"  )</SQLExpression>
      AVG(ar.antecedent_support) AS ANTECEDENT_SUPPORT,
      AVG(ar.consequent_support) AS CONSEQUENT_SUPPORT,
      AVG(ar.number_of_items) AS LENGTH
-     FROM TABLE(dbms_data_mining.get_association_rules('"DEMO"."ASSOC_AP_1_7"')) AR, 
+     FROM TABLE(dbms_data_mining.get_association_rules('"DEMO"."ASSOC_AP_1_13"')) AR, 
      TABLE(AR.antecedent) ant_pred ,  TABLE(AR.consequent) cons_pred
      GROUP BY AR.rule_id )</SQLExpression>
             <ModelDetailsOutput Type="ARRulesStringVersion" MiningFunction="ASSOCIATION" MiningAlgorithm="APRIORI_ASSOCIATION_RULES" AutoSpec="Yes">
                 <Models>
-                    <Model IsModelBuilt="true" NodeId="10003" Schema="" Name="ASSOC_AP_1_7" MiningFunction="ASSOCIATION" MiningAlgorithm="APRIORI_ASSOCIATION_RULES" Status="Valid" UseForOutput="true" ModelId="10002"/>
+                    <Model IsModelBuilt="false" NodeId="10003" Schema="" Name="ASSOC_AP_1_13" MiningFunction="ASSOCIATION" MiningAlgorithm="APRIORI_ASSOCIATION_RULES" Status="Valid" UseForOutput="true" ModelId="10014"/>
                 </Models>
                 <Attributes>
                     <Attribute Name="MODEL_SCHEMA" DataType="VARCHAR2" Status="Valid"/>
@@ -199,7 +200,7 @@ FROM
         </SQLQuery>
     </Nodes>
     <Links>
-        <Link Id="10004" From="10001" To="10003" Name="Link" Label="From &quot;TRANSACTION&quot; to &quot;Assoc Build&quot;">
+        <Link Id="10004" From="10001" To="10003" Name="Link" Label="From &quot;PURCHASE&quot; to &quot;Assoc Build&quot;">
             <ConnectorGraphicsInfo>
                 <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
             </ConnectorGraphicsInfo>
@@ -214,7 +215,7 @@ FROM
                 <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
             </ConnectorGraphicsInfo>
         </Link>
-        <Link Id="10013" From="10009" To="10012" Name="Link" Label="From &quot;SQL Query&quot; to &quot;RESULT_ASSOC&quot;">
+        <Link Id="10013" From="10009" To="10012" Name="Link" Label="From &quot;SQL Query&quot; to &quot;PRED_ASSOC&quot;">
             <ConnectorGraphicsInfo>
                 <Coordinates XCoordinate="0.0" YCoordinate="0.0"/>
             </ConnectorGraphicsInfo>
